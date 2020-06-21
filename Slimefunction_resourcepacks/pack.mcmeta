@@ -3,9 +3,19 @@
      "pack_format": 5,
      "description": [
         {
-           "text": "Slimefunction",
+           "translate": "sf.Slimefunction",
            "color": "gold",
            "bold": true
+        },
+        {
+            "translate": "options.resourcepack",
+            "color": "gold",
+            "bold": true
+        },
+        {
+            "text": "\nby Gu_ZT Cjsah",
+            "color": "green",
+            "bold": true
         }
      ]
   }
