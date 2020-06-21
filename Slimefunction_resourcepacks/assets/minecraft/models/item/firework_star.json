@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    },
+	"overrides": [
+        { "predicate": { "custom_model_data": 0 }, "model": ""}
+	]
+}

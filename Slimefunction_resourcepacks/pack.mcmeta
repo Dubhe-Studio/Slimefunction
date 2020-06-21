@@ -1,0 +1,12 @@
+﻿{
+  "pack": {
+     "pack_format": 5,
+     "description": [
+        {
+           "text": "Slimefunction",
+           "color": "gold",
+           "bold": true
+        }
+     ]
+  }
+}
