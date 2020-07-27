@@ -3,7 +3,6 @@
 [![Github Issues](https://img.shields.io/github/issues/Dubhe-Development-Team/Slimefunction.svg?style=popout)](https://github.com/Dubhe-Development-Team/Slimefunction/issues)
 ![Github stars](https://img.shields.io/github/stars/Dubhe-Development-Team/Slimefunction.svg)
 ![Github Forks](https://img.shields.io/github/forks/Dubhe-Development-Team/Slimefunction.svg)
-![Github Watches](https://img.shields.io/github/watches/Dubhe-Development-Team/Slimefunction.svg)
 
 
 # 引用
