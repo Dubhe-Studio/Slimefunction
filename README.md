@@ -5,7 +5,7 @@
 ![Github stars](https://img.shields.io/github/stars/Dubhe-Development-Team/Slimefunction.svg)
 ![Github Forks](https://img.shields.io/github/forks/Dubhe-Development-Team/Slimefunction.svg)
 
-
+* `自定义模型区段：7270000~7279999`
 
 # 原作授权
 ![授权](./授权.jpg)
