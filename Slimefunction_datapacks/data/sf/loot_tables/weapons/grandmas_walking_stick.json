@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:7270000,display:{Name:'{}',Lore:['{}']},id:'sf:grandmas_walking_stick',Enchantments:[{}]}"
+                            "tag": "{CustomModelData:7270000,display:{Name:'{\"translate\":\"sf.weapon.grandmas_walking_stick.name\"}',Lore:['{\"translate\":\"sf.weapon.grandmas_walking_stick.lore}']}id:'sf:grandmas_walking_stick',Enchantments:[{id:\"minecraft:knockback\",lvl:2}]}"
 						}
 					]
 				}
