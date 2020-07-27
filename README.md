@@ -1,8 +1,7 @@
 # Slimefunction   `粘液科技原版模组`
 
-[![Issues](https://img.shields.io/github/issues/Dubhe-Development-Team/Slimefunction.svg?style=popout)](https://github.com/Dubhe-Development-Team/Slimefunction/issues)
-[![Star](https://img.shields.io/github/Star/Dubhe-Development-Team/Slimefunction.svg?style=popout)](https://github.com/Dubhe-Development-Team/Slimefunction/Star)
-
+![Issues](https://github.com/Dubhe-Development-Team/Slimefunction/issues)
+![Github stars](https://img.shields.io/github/stars/DWCTOD/interview.svg)
 
 
 # 引用
