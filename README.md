@@ -5,6 +5,9 @@
 ![Github Forks](https://img.shields.io/github/forks/Dubhe-Development-Team/Slimefunction.svg)
 
 
+
+# 原作授权
+![授权](./授权.jpg)
 # 引用
 * [Minecraft插件百科页面](https://mineplugin.org/SlimeFun4 "Minecraft插件百科页面")
 * [MCBBS插件搬运贴](https://www.mcbbs.net/forum.php?mod=viewthread&tid=827594 "MCBBS插件搬运贴")
