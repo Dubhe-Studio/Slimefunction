@@ -3,6 +3,6 @@
 
 
 # 引用
-* `[Minecraft插件百科页面](https://mineplugin.org/SlimeFun4)`
-* `[MCBBS插件搬运贴](http://www.mcbbs.net/forum.php?mod=viewthread&tid=634045)`
-* `[GitHub-Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki)`
+* `[Minecraft插件百科页面](https://mineplugin.org/SlimeFun4 "Minecraft插件百科页面")`
+* `[MCBBS插件搬运贴](http://www.mcbbs.net/forum.php?mod=viewthread&tid=634045 "MCBBS插件搬运贴")`
+* `[GitHub-Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki "GitHub-Wiki")`
