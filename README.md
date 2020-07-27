@@ -1,5 +1,7 @@
 # Slimefunction   `粘液科技原版模组`
 
+[![Issues](https://img.shields.io/github/issues/Dubhe-Development-Team/Slimefunction.svg?style=popout)](https://github.com/Dubhe-Development-Team/Slimefunction/issues)
+
 
 
 # 引用
