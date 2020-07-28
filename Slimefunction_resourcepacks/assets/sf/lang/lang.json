@@ -4,5 +4,19 @@
     "sf.weapon.grandmas_walking_stick.name":"§7<>§r",
     "sf.weapon.grandmas_walking_stick.lore":"§7<>§r",
     "sf.weapon.grandpas_walking_stick.name":"§7<>§r",
-    "sf.weapon.grandpas_walking_stick.lore":"§7<>§r"
+    "sf.weapon.grandpas_walking_stick.lore":"§7<>§r",
+    "sf.weapon.icy_bow.name":"<>§r",
+    "sf.weapon.icy_bow.lore":"<>§r",
+    "sf.weapon.seismic_axe.name":"<>§r",
+    "sf.weapon.seismic_axe.lore":"<>§r",
+    "sf.weapon.soulbound_bow.name":"<>§r",
+    "sf.weapon.soulbound_bow.lore":"<>§r",
+    "sf.weapon.soulbound_sword.name":"<>§r",
+    "sf.weapon.soulbound_sword.lore":"<>§r",
+    "sf.weapon.sword_of_beheading.name":"<>§r",
+    "sf.weapon.sword_of_beheading.lore":"<>§r",
+    "sf.weapon.blade_of_vampires.name":"<>§r",
+    "sf.weapon.blade_of_vampires.lore":"<>§r",
+    "sf.weapon.explosive_bow.name":"<>§r",
+    "sf.weapon.explosive_bow.lore":"<>§r"
 }

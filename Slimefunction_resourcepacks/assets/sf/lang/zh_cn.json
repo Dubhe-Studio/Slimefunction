@@ -4,5 +4,19 @@
     "sf.weapon.grandmas_walking_stick.name":"§7奶奶的拐杖§r",
     "sf.weapon.grandmas_walking_stick.lore":"§7击退 II§r",
     "sf.weapon.grandpas_walking_stick.name":"§7爷爷的拐杖§r",
-    "sf.weapon.grandpas_walking_stick.lore":"§7击退 V§r"
+    "sf.weapon.grandpas_walking_stick.lore":"§7击退 V§r",
+    "sf.weapon.icy_bow.name":"",
+    "sf.weapon.icy_bow.lore":"",
+    "sf.weapon.seismic_axe.name":"",
+    "sf.weapon.seismic_axe.lore":"",
+    "sf.weapon.soulbound_bow.name":"",
+    "sf.weapon.soulbound_bow.lore":"",
+    "sf.weapon.soulbound_sword.name":"",
+    "sf.weapon.soulbound_sword.lore":"",
+    "sf.weapon.sword_of_beheading.name":"",
+    "sf.weapon.sword_of_beheading.lore":"",
+    "sf.weapon.blade_of_vampires.name":"",
+    "sf.weapon.blade_of_vampires.lore":"",
+    "sf.weapon.explosive_bow.name":"",
+    "sf.weapon.explosive_bow.lore":""
 }
