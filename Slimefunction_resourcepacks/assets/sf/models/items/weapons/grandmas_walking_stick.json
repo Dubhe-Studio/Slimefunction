@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "sf:items/weapons/grandmas_walking_stick"
+    }
+}
