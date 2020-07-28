@@ -1,8 +1,8 @@
 {
-    "sf.Slimefunction":"粘液科技",
+    "sf.Slimefunction":"§6§l粘液科技§r§r",
 
-    "sf.weapon.grandmas_walking_stick.name":"奶奶的拐杖",
-    "sf.weapon.grandmas_walking_stick.lore":"击退 II",
-    "sf.weapon.grandpas_walking_stick.name":"爷爷的拐杖",
-    "sf.weapon.grandpas_walking_stick.lore":"击退 V"
+    "sf.weapon.grandmas_walking_stick.name":"§7奶奶的拐杖§r",
+    "sf.weapon.grandmas_walking_stick.lore":"§7击退 II§r",
+    "sf.weapon.grandpas_walking_stick.name":"§7爷爷的拐杖§r",
+    "sf.weapon.grandpas_walking_stick.lore":"§7击退 V§r"
 }
