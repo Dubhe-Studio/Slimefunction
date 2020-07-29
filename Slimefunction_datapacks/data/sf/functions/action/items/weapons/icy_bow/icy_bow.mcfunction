@@ -1,6 +1,5 @@
 playsound block.glass.break block @a ~ ~1 ~
 playsound block.glass.break block @a ~ ~ ~
-particle minecraft:block ice ~ ~ ~ 0.25 0.5 0.25 0.5 50 force
+particle minecraft:block ice ~ ~ ~ 0.25 1 0.25 0.5 100 force
 effect give @p minecraft:slowness 2 127 true
-effect give @p minecraft:jump_boost 2 2 true
-effect give @p minecraft:slow_falling 2 127 true
+effect give @p minecraft:jump_boost 2 128 true
