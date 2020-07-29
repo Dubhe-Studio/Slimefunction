@@ -6,9 +6,17 @@
 
 * `自定义模型区段：7270000~7279999`
 
-* [CustomModelData对应表](./doc/模型对应表.md)
+<details>
+<summary>CustomModelData对应表</summary>
 
-* [物品ID对应表](./doc/ID对应表.md)
+| CustomModelData | 物品名称 |
+| ------- | ---------- |
+| 7270001 | 奶奶的拐杖 |
+| 7270002 | 爷爷的拐杖 |
+| 7270003 | 冰封之弓 |
+| 7270004 | 爆炸镐 |
+</details>
+
 <details>
 <summary>物品ID对应表</summary>
 
