@@ -6,9 +6,9 @@
 
 * `自定义模型区段：7270000~7279999`
 
-* [CustomModelData对应表](./doc/模型对应表)
+* [CustomModelData对应表](./doc/模型对应表.md)
 
-* [物品ID对应表](./doc/ID对应表)
+* [物品ID对应表](./doc/ID对应表.md)
 
 
 # 原作授权
