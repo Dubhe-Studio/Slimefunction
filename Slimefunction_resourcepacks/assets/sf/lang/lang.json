@@ -5,8 +5,8 @@
     "sf.weapon.grandmas_walking_stick.lore":"§7<>§r",
     "sf.weapon.grandpas_walking_stick.name":"§7<>§r",
     "sf.weapon.grandpas_walking_stick.lore":"§7<>§r",
-    "sf.weapon.icy_bow.name":"<>§r",
-    "sf.weapon.icy_bow.lore":"<>§r",
+    "sf.weapon.icy_bow.name":"§b<>§r",
+    "sf.weapon.icy_bow.lore":"§5<>§r",
     "sf.weapon.seismic_axe.name":"<>§r",
     "sf.weapon.seismic_axe.lore":"<>§r",
     "sf.weapon.soulbound_bow.name":"<>§r",
@@ -20,6 +20,7 @@
     "sf.weapon.explosive_bow.name":"<>§r",
     "sf.weapon.explosive_bow.lore":"<>§r",
 
-    "sf.tool.explosive_pickaxe.name":"<>§r",
-    "sf.tool.explosive_pickaxe.lore":"<>§r"
+    "sf.tool.explosive_pickaxe.name":"§e<>§r",
+    "sf.tool.explosive_pickaxe.lore.1":"§5<>§r",
+    "sf.tool.explosive_pickaxe.lore.2":"§9<>§r"
 }

@@ -5,8 +5,8 @@
     "sf.weapon.grandmas_walking_stick.lore":"§7击退 II§r",
     "sf.weapon.grandpas_walking_stick.name":"§7爷爷的拐杖§r",
     "sf.weapon.grandpas_walking_stick.lore":"§7击退 V§r",
-    "sf.weapon.icy_bow.name":"<>§r",
-    "sf.weapon.icy_bow.lore":"<>§r",
+    "sf.weapon.icy_bow.name":"§b冰封之弓§r",
+    "sf.weapon.icy_bow.lore":"§5被此弓射出的箭击中将会因寒冷而无法移动（2秒内）§r",
     "sf.weapon.seismic_axe.name":"<>§r",
     "sf.weapon.seismic_axe.lore":"<>§r",
     "sf.weapon.soulbound_bow.name":"<>§r",
@@ -20,6 +20,7 @@
     "sf.weapon.explosive_bow.name":"<>§r",
     "sf.weapon.explosive_bow.lore":"<>§r",
 
-    "sf.tool.explosive_pickaxe.name":"爆炸镐§r",
-    "sf.tool.explosive_pickaxe.lore":"<>§r"
+    "sf.tool.explosive_pickaxe.name":"§e爆炸镐§r",
+    "sf.tool.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物§r",
+    "sf.tool.explosive_pickaxe.lore.2":"§9兼容时运附魔§r"
 }
