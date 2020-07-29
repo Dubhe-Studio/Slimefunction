@@ -1,0 +1,1 @@
+execute as @e[type=#arrows,distance=6] run data modify entity @s CustomPotionEffects append value {sf_icy:{Id:2,Amplifier:127,Duration:40}}
