@@ -7,25 +7,14 @@
 * `自定义模型区段：7270000~7279999`
 
 <details>
-<summary>CustomModelData对应表</summary>
+<summary>CustomModelData 与 物品ID 对照表表</summary>
 
-| CustomModelData | 物品名称 |
-| ------- | ---------- |
-| 7270001 | 奶奶的拐杖 |
-| 7270002 | 爷爷的拐杖 |
-| 7270003 | 冰封之弓 |
-| 7270004 | 爆炸镐 |
-</details>
-
-<details>
-<summary>物品ID对应表</summary>
-
-| 物品ID | 物品名称 |
-| ------- | ---------- |
-| grandmas_walking_stick | 奶奶的拐杖 |
-| grandpas_walking_stick | 爷爷的拐杖 |
-| icy_bow | 冰封之弓 |
-| explosive_pickaxe | 爆炸镐 |
+| CustomModelData | 物品ID | 物品名称 |
+| ------- | ------- | ---------- |
+| 7270001 | grandmas_walking_stick | 奶奶的拐杖 |
+| 7270002 | grandpas_walking_stick | 爷爷的拐杖 |
+| 7270003 | icy_bow | 冰封之弓 |
+| 7270004 | explosive_pickaxe | 爆炸镐 |
 </details>
 
 
