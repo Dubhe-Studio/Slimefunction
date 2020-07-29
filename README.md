@@ -9,7 +9,7 @@
 * [CustomModelData对应表](./doc/模型对应表.md)
 
 * [物品ID对应表](./doc/ID对应表.md)
-* <details>
+<details>
 <summary>物品ID对应表</summary>
 
 | 物品ID | 物品名称 |
