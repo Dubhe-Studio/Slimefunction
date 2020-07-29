@@ -7,7 +7,7 @@
 * `自定义模型区段：7270000~7279999`
 
 <details>
-<summary>CustomModelData 与 物品ID 对照表表</summary>
+<summary>CustomModelData 与 物品ID 对照表</summary>
 
 | CustomModelData | 物品ID | 物品名称 |
 | ------- | ------- | ---------- |
