@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_pickaxe",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270003,display:{Lore:['{\"italic\":false,\"translate\":\"sf.explosive_pickaxe.lore\"}'],Name:'{\"italic\":false,\"translate\":\"sf.explosive_pickaxe.name\"}'},id:'sf:explosive_pickaxe'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
