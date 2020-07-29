@@ -5,11 +5,11 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:firework_star",
+					"name": "minecraft:bow",
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:<>,display:{Name:'{\"italic\":false,\"translate\":\"<>\"}'},id:'<>'}"
+							"tag": "{CustomModelData:7270003,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.icy_bow.name\"}'},id:'sf:icy_bow'}"
 						}
 					]
 				}

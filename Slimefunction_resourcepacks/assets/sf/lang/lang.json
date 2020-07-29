@@ -18,5 +18,8 @@
     "sf.weapon.blade_of_vampires.name":"<>§r",
     "sf.weapon.blade_of_vampires.lore":"<>§r",
     "sf.weapon.explosive_bow.name":"<>§r",
-    "sf.weapon.explosive_bow.lore":"<>§r"
+    "sf.weapon.explosive_bow.lore":"<>§r",
+
+    "sf.tool.explosive_pickaxe.name":"<>§r",
+    "sf.tool.explosive_pickaxe.lore":"<>§r"
 }
