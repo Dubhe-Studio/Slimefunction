@@ -9,6 +9,16 @@
 * [CustomModelData对应表](./doc/模型对应表.md)
 
 * [物品ID对应表](./doc/ID对应表.md)
+* <details>
+<summary>物品ID对应表</summary>
+
+| 物品ID | 物品名称 |
+| ------- | ---------- |
+| grandmas_walking_stick | 奶奶的拐杖 |
+| grandpas_walking_stick | 爷爷的拐杖 |
+| icy_bow | 冰封之弓 |
+| explosive_pickaxe | 爆炸镐 |
+</details>
 
 
 # 原作授权
