@@ -16,7 +16,7 @@
 <details>
 <summary>点我显示</summary>
 
-<summary>![授权](./授权.jpg)
+![授权](./授权.jpg)
 </details>
 
 # 引用
