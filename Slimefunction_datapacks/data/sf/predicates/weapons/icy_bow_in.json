@@ -1,7 +1,9 @@
 {
 	"condition": "minecraft:damage_source_properties",
-	"direct_entity": {
-		"type": "minecraft:arrow",
-		"nbt": "{Tags: [\"icy_arrow\"]}"
+	"predicate": {
+		"direct_entity": {
+			"type": "minecraft:arrow",
+			"nbt": "{Tags: [\"icy_arrow\"]}"
+		}
 	}
 }
