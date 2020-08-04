@@ -1,3 +1,2 @@
-execute at @e[predicate=sf:weapons/icy_bow,scores={sf_icy_arrow=1..}] run function sf:action/items/weapons/icy_bow/arrow
-execute as @e if data entity @s {ActiveEffects:{sf_icy:{Id:2,Amplifier:127}}} run function sf:action/items/weapons/icy_bow/icy_bow
-scoreboard players reset @a sf_icy_arrow
+execute at @a[scores={sf_icy_arrow=1..}] if predicate sf:weapons/icy_bow run execute as @e[type=arrow,distance=..6,limit=1] run tag @s add icy_arrow
+execute as @e[type=arrow,tag=icy_arrow] run function sf:action/items/weapons/arrow
