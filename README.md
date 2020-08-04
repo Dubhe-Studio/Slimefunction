@@ -15,6 +15,7 @@
 | 7270002 | grandpas_walking_stick | 爷爷的拐杖 |
 | 7270003 | icy_bow | 冰封之弓 |
 | 7270004 | explosive_pickaxe | 爆炸镐 |
+| 7270005 | sword_of_beheading | 斩首之剑 |
 </details>
 
 
