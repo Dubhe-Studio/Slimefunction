@@ -17,21 +17,19 @@
 			],
 			"conditions": [
 				{
-          "condition": "minecraft:damage_source_properties",
-          "predicate": {
-            "source_entity": {
-              "equipment": {
-                "mainhand":{
-                  "nbt": "{id:'sf:sword_of_beheading'}"
-                }
-              }
-            }
-          }
-        },
-				{
-				  "condition": "minecraft:random_chance_with_looting",
-				  "chance": 0.7,
-				  "looting_multiplier": 0.1
+					"condition": "minecraft:entity_properties",
+					"predicate": {
+						"equipment":{
+							"mainhand":{
+								"nbt": "{id:'sf:sword_of_beheading'}"
+					  		}
+						}
+					}
+				},
+			    {
+				 "condition": "minecraft:random_chance_with_looting",
+				 "chance": 0.7,
+				 "looting_multiplier": 0.1
 				}
 			]
 		}
