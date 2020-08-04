@@ -5,11 +5,11 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:firework_star",
+					"name": "minecraft:iron_sword",
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:<>,display:{Name:'{\"italic\":false,\"translate\":\"<>\"}'},id:'<>'}"
+							"tag": "{CustomModelData:7270005,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.name\"}',Lore:['{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.lore\"}']},id:'sf:sword_of_beheading'}"
 						}
 					]
 				}
