@@ -89,7 +89,8 @@
 								"nbt": "{id:'sf:sword_of_beheading'}"
 					  		}
 						}
-					}
+					},
+          "entity": "killer"
 				},
         {
           "condition": "minecraft:random_chance_with_looting",
