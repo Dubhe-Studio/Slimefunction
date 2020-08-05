@@ -1,5 +1,4 @@
 scoreboard players set @s sf_soul_death 0
-experience add @s -15 levels
 data modify storage sf:drop inventory prepend from entity @s Inventory[]
 data remove storage sf:drop inventory[{tag:{soul_bound:1b}}]
 data remove storage sf:drop inventory[{tag:{soul_bound:1b}}]
@@ -45,3 +44,16 @@ execute unless data entity @s Inventory[{Slot:100b,tag:{soul_bound:1b}}] run rep
 execute unless data entity @s Inventory[{Slot:101b,tag:{soul_bound:1b}}] run replaceitem entity @s armor.legs air
 execute unless data entity @s Inventory[{Slot:102b,tag:{soul_bound:1b}}] run replaceitem entity @s armor.chest air
 execute unless data entity @s Inventory[{Slot:103b,tag:{soul_bound:1b}}] run replaceitem entity @s armor.head air
+
+# 经验值处理
+execute store result score #exp sf_value run data get entity @s XpLevel
+xp set @s 0 levels
+xp set @s 0 points
+execute if score #exp sf_value matches 4..10 positioned ~ ~ ~ run function sf:main/soul_bound/exp
+execute if score #exp sf_value matches 11..20 positioned ~ ~ ~ run function sf:main/soul_bound/exp
+execute if score #exp sf_value matches 11..20 positioned ~ ~ ~ run function sf:main/soul_bound/exp
+execute if score #exp sf_value matches 21.. positioned ~1 ~0.25 ~0 run function sf:main/soul_bound/exp
+execute if score #exp sf_value matches 21.. positioned ~0.81 ~0.25 ~0.58 run function sf:main/soul_bound/exp
+execute if score #exp sf_value matches 21.. positioned ~0.33 ~0.25 ~0.95 run function sf:main/soul_bound/exp
+scoreboard players reset #exp sf_value
+
