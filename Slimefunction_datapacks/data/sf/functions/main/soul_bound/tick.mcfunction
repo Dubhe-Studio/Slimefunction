@@ -1,1 +1,1 @@
-execute as @e[type=item,nbt={Item:{tag:{soulbound:1b}}}] unless data entity @s Thrower run kill @s
+execute if score #keepInventory sf_value matches 0 as @a[scores={sf_soul_death=1..}] at @s run function sf:main/soul_bound/die

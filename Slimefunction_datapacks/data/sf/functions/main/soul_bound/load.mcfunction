@@ -1,0 +1,2 @@
+scoreboard objectives add sf_soul_death deathCount
+gamerule keepInventory true

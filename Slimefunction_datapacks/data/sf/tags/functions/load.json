@@ -1,6 +1,9 @@
 {
     "values":[
         "sf:action/items/tools/explosive_pickaxe/load",
-        "sf:action/items/weapons/icy_bow/load"
+        "sf:action/items/weapons/icy_bow/load",
+        "sf:main/soul_bound/load",
+        "sf:main/load",
+        "sf:main/config"
     ]
 }
