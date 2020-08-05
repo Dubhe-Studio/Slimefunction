@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{tag:{soulbound:1b}}}] unless data entity @s Thrower run kill @s
