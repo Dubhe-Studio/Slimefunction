@@ -16,6 +16,7 @@
 | 7270003 | icy_bow | 冰封之弓 |
 | 7270004 | explosive_pickaxe | 爆炸镐 |
 | 7270005 | sword_of_beheading | 斩首之剑 |
+| 7270006 | grappling_hook | 抓钩 |
 </details>
 
 
