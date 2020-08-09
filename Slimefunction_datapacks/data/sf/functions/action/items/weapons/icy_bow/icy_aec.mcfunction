@@ -1,0 +1,3 @@
+execute as @e[type=area_effect_cloud,tag=sf_icy_aec,scores={sf_icy_aec=1}] at @s store success score @s sf_icy_aec run tp @s @e[type=arrow,tag=sf_icy_arrow,limit=1,sort=nearest,distance=..5]
+execute as @e[type=area_effect_cloud,tag=sf_icy_aec,scores={sf_icy_aec=0}] at @s run execute as @e[type=!arrow,sort=nearest,limit=1,distance=..5] run function sf:action/items/weapons/icy_bow/icy_bow
+execute as @e[tag=sf_icy_aec,tag=!sf_icy_aec_will] run function sf:action/items/weapons/icy_bow/icy_aec_qwq
