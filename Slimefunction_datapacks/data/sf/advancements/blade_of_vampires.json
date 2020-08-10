@@ -1,0 +1,29 @@
+{
+	"criteria": {
+		"blade_of_vampires": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+                "player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment":{
+								"mainhand":{
+									"nbt": "{id:'blade_of_vampires'}"
+								}
+							}
+						}
+					},
+					{
+						"condition": "minecraft:random_chance",
+						"chance": 0.45
+					}
+				]
+			}
+		}
+    },
+    "rewards": {
+        "function": "sf:action/items/weapons/blade_of_vampires/blade_of_vampires"
+    }
+}

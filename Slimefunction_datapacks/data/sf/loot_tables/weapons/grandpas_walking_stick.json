@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:7270002,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.grandpas_walking_stick.name\"}',Lore:['{\"italic\":false,\"translate\":\"sf.weapon.grandpas_walking_stick.lore\"}']},HideFlags:1,id:'sf:grandpas_walking_stick',Enchantments:[{id:\"minecraft:knockback\",lvl:5}]}"
+                            "tag": "{CustomModelData:7270002,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.grandpas_walking_stick.name\"}'},id:'sf:grandpas_walking_stick',Enchantments:[{id:\"minecraft:knockback\",lvl:5}]}"
 						}
 					]
 				}

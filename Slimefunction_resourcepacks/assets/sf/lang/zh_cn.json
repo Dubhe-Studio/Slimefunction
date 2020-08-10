@@ -1,25 +1,34 @@
 {
     "sf.Slimefunction":"§6§l粘液科技§r§r",
 
+
     "sf.weapon.grandmas_walking_stick.name":"§7奶奶的拐杖§r",
-    "sf.weapon.grandmas_walking_stick.lore":"§7击退 II§r",
+    
     "sf.weapon.grandpas_walking_stick.name":"§7爷爷的拐杖§r",
-    "sf.weapon.grandpas_walking_stick.lore":"§7击退 V§r",
+
     "sf.weapon.icy_bow.name":"§b冰封之弓§r",
     "sf.weapon.icy_bow.lore":"§5被此弓射出的箭击中将会因寒冷而无法移动（2秒内）§r",
+
     "sf.weapon.seismic_axe.name":"<>§r",
     "sf.weapon.seismic_axe.lore":"<>§r",
+
     "sf.weapon.soulbound_bow.name":"<>§r",
     "sf.weapon.soulbound_bow.lore":"<>§r",
+
     "sf.weapon.soulbound_sword.name":"<>§r",
     "sf.weapon.soulbound_sword.lore":"<>§r",
+
     "sf.weapon.sword_of_beheading.name":"§6处决之剑§r",
-    "sf.weapon.sword_of_beheading.lore.1":"§7斩首处决 II§r",
-    "sf.weapon.sword_of_beheading.lore.2":"§5有几率砍下生物的头（提高掉落凋灵骷髅头的几率）§r",
-    "sf.weapon.blade_of_vampires.name":"<>§r",
-    "sf.weapon.blade_of_vampires.lore":"<>§r",
+    "sf.weapon.sword_of_beheading.lore.1":"§5有几率砍下生物的头（提高掉落凋灵骷髅头的几率）§r",
+    "sf.weapon.sword_of_beheading.lore.2":"§7斩首处决 %s§r",
+
+    "sf.weapon.blade_of_vampires.name":"§c吸血鬼之刀§r",
+    "sf.weapon.blade_of_vampires.lore.1":"§5在攻击时有45%的几率使自己恢复两点血量§r",
+    "sf.weapon.blade_of_vampires.lore.2":"§7生命窃取 %s§r",
+
     "sf.weapon.explosive_bow.name":"<>§r",
     "sf.weapon.explosive_bow.lore":"<>§r",
+
 
     "sf.tool.explosive_pickaxe.name":"§e爆炸镐§r",
     "sf.tool.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物§r",
