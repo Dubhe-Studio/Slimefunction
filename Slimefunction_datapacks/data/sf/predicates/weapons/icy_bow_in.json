@@ -1,8 +1,8 @@
 {
 	"condition": "minecraft:damage_source_properties",
 	"predicate": {
-		"direct_entity": {
-			"type": "arrow"
+		"source_entity": {
+			"type": "minecraft:skeleton"
 		}
 	}
 }
