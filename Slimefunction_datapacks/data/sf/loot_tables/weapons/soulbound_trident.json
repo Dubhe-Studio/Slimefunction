@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:trident",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270010,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.soulbound_trident.name\"}'},soul_bound:1b,id:'sf:soulbound_trident'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

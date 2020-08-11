@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_elytra",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:727001,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_items.soulbound_elytra.name\"}'},soul_bound:1b,id:'sf:soulbound_elytra'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

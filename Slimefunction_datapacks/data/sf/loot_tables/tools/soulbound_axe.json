@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_axe",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270017,display:{Name:'{\"italic\":false,\"translate\":\"sf.tools.soulbound_axe.name\"}'},soul_bound:1b,id:'sf:soulbound_axe'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

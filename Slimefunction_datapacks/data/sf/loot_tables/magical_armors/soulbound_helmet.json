@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_helmet",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270011,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_helmet.name\"}'},soul_bound:1b,id:'sf:soulbound_helmet'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

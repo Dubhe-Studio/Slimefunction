@@ -30,26 +30,26 @@
     "sf.weapon.explosive_bow.lore":"<>§r",
 
 
-    "sf.tool.explosive_pickaxe.name":"§e爆炸镐§r",
-    "sf.tool.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物§r",
-    "sf.tool.explosive_pickaxe.lore.2":"§9兼容时运附魔§r",
+    "sf.tools.explosive_pickaxe.name":"§e爆炸镐§r",
+    "sf.tools.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物§r",
+    "sf.tools.explosive_pickaxe.lore.2":"§9兼容时运附魔§r",
 
-    "sf.tool.soulbound_hoe.name":"§c灵魂绑定锄§r",
+    "sf.tools.soulbound_hoe.name":"§c灵魂绑定锄§r",
 
-    "sf.tool.soulbound_shovel.name":"§c灵魂绑定锹§r",
+    "sf.tools.soulbound_shovel.name":"§c灵魂绑定锹§r",
 
-    "sf.tool.soulbound_axe.name":"§c灵魂绑定斧§r",
+    "sf.tools.soulbound_axe.name":"§c灵魂绑定斧§r",
 
-    "sf.tool.soulbound_pickaxe.name":"§c灵魂绑定镐§r",
+    "sf.tools.soulbound_pickaxe.name":"§c灵魂绑定镐§r",
 
 
-    "sf.magical_armor.soulbound_helmet.name":"§c灵魂绑定头盔§r",
+    "sf.magical_armors.soulbound_helmet.name":"§c灵魂绑定头盔§r",
 
-    "sf.magical_armor.soulbound_chestplate.name":"§c灵魂绑定胸甲§r",
+    "sf.magical_armors.soulbound_chestplate.name":"§c灵魂绑定胸甲§r",
 
-    "sf.magical_armor.soulbound_leggings.name":"§c灵魂绑定护腿§r",
+    "sf.magical_armors.soulbound_leggings.name":"§c灵魂绑定护腿§r",
 
-    "sf.magical_armor.soulbound_boots.name":"§c灵魂绑定靴子§r",
+    "sf.magical_armors.soulbound_boots.name":"§c灵魂绑定靴子§r",
 
 
     "sf.magical_items.soulbound_elytra.name":"§c灵魂绑定鞘翅§r"
