@@ -18,6 +18,18 @@
 | 7270005 | sword_of_beheading | 斩首之剑 | Sword of Beheading |
 | 7270006 | grappling_hook | 抓钩 | Grappling Hook |
 | 7270007 | blade_of_vampires | 吸血鬼之刀 | Blade of Vampires |
+| 7270008 | soulbound_sword | 灵魂绑定剑 | Soulbound Sword |
+| 7270009 | soulbound_bow | 灵魂绑定弓 | Soulbound Bow |
+| 7270010 | soulbound_trident | 灵魂绑定三叉戟 | Soulbound Trident |
+| 7270011 | soulbound_helmet | 灵魂绑定头盔 | Soulbound Helmet |
+| 7270012 | soulbound_chestplate | 灵魂绑定胸甲 | Soulbound Chestplate |
+| 7270013 | soulbound_leggings | 灵魂绑定护腿 | Soulbound Leggings |
+| 7270014 | soulbound_boots | 灵魂绑定靴子 | Soulbound Boots |
+| 7270015 | soulbound_hoe | 灵魂绑定锄 | Soulbound Hoe |
+| 7270016 | soulbound_shovel | 灵魂绑定锹 | Soulbound Shovel |
+| 7270017 | soulbound_axe | 灵魂绑定斧 | Soulbound Axe |
+| 7270018 | soulbound_pickaxe | 灵魂绑定镐 | Soulbound Pickaxe |
+| 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra |
 </details>
 
 

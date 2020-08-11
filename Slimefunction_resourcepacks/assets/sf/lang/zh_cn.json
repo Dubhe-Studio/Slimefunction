@@ -12,11 +12,11 @@
     "sf.weapon.seismic_axe.name":"<>§r",
     "sf.weapon.seismic_axe.lore":"<>§r",
 
-    "sf.weapon.soulbound_bow.name":"<>§r",
-    "sf.weapon.soulbound_bow.lore":"<>§r",
+    "sf.weapon.soulbound_bow.name":"§c灵魂绑定弓§r",
 
-    "sf.weapon.soulbound_sword.name":"<>§r",
-    "sf.weapon.soulbound_sword.lore":"<>§r",
+    "sf.weapon.soulbound_sword.name":"§c灵魂绑定剑§r",
+
+    "sf.weapon.soulbound_trident.name":"§c灵魂绑定三叉戟§r",
 
     "sf.weapon.sword_of_beheading.name":"§6处决之剑§r",
     "sf.weapon.sword_of_beheading.lore.1":"§5有几率砍下生物的头（提高掉落凋灵骷髅头的几率）§r",
@@ -32,5 +32,25 @@
 
     "sf.tool.explosive_pickaxe.name":"§e爆炸镐§r",
     "sf.tool.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物§r",
-    "sf.tool.explosive_pickaxe.lore.2":"§9兼容时运附魔§r"
+    "sf.tool.explosive_pickaxe.lore.2":"§9兼容时运附魔§r",
+
+    "sf.tool.soulbound_hoe.name":"§c灵魂绑定锄§r",
+
+    "sf.tool.soulbound_shovel.name":"§c灵魂绑定锹§r",
+
+    "sf.tool.soulbound_axe.name":"§c灵魂绑定斧§r",
+
+    "sf.tool.soulbound_pickaxe.name":"§c灵魂绑定镐§r",
+
+
+    "sf.magical_armor.soulbound_helmet.name":"§c灵魂绑定头盔§r",
+
+    "sf.magical_armor.soulbound_chestplate.name":"§c灵魂绑定胸甲§r",
+
+    "sf.magical_armor.soulbound_leggings.name":"§c灵魂绑定护腿§r",
+
+    "sf.magical_armor.soulbound_boots.name":"§c灵魂绑定靴子§r",
+
+
+    "sf.magical_items.soulbound_elytra.name":"§c灵魂绑定鞘翅§r"
 }
