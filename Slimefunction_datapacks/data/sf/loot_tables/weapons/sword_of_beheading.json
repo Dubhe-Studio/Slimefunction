@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270005,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.name\"}',Lore:['{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.lore.1\"}','{}','{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.lore.2\"}']},id:'sf:sword_of_beheading'}"
+							"tag": "{CustomModelData:7270005,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.name\"}',Lore:['{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.lore.1\"}','{}','{\"italic\":false,\"translate\":\"sf.weapon.sword_of_beheading.lore.2\",\"with\":[\"{\\\"translate\\\":\\\"enchantment.level.2\\\"}\"]}']},id:'sf:sword_of_beheading'}"
 						}
 					]
 				}

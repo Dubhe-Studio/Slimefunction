@@ -1,25 +1,34 @@
 {
     "sf.Slimefunction":"§6§l<>§r§r",
 
+
     "sf.weapon.grandmas_walking_stick.name":"§7<>§r",
-    "sf.weapon.grandmas_walking_stick.lore":"§7<>§r",
+
     "sf.weapon.grandpas_walking_stick.name":"§7<>§r",
-    "sf.weapon.grandpas_walking_stick.lore":"§7<>§r",
+
     "sf.weapon.icy_bow.name":"§b<>§r",
     "sf.weapon.icy_bow.lore":"§5<>§r",
+
     "sf.weapon.seismic_axe.name":"<>§r",
     "sf.weapon.seismic_axe.lore":"<>§r",
+
     "sf.weapon.soulbound_bow.name":"<>§r",
     "sf.weapon.soulbound_bow.lore":"<>§r",
+
     "sf.weapon.soulbound_sword.name":"<>§r",
     "sf.weapon.soulbound_sword.lore":"<>§r",
+
     "sf.weapon.sword_of_beheading.name":"§6<>§r",
-    "sf.weapon.sword_of_beheading.lore.1":"§7<>§r",
-    "sf.weapon.sword_of_beheading.lore.2":"§5<>§r",
-    "sf.weapon.blade_of_vampires.name":"<>§r",
-    "sf.weapon.blade_of_vampires.lore":"<>§r",
+    "sf.weapon.sword_of_beheading.lore.1":"§5<>§r",
+    "sf.weapon.sword_of_beheading.lore.2":"§7<>§r",
+
+    "sf.weapon.blade_of_vampires.name":"§c<>§r",
+    "sf.weapon.blade_of_vampires.lore.1":"§5<>§r",
+    "sf.weapon.blade_of_vampires.lore.2":"§7<>§r",
+    
     "sf.weapon.explosive_bow.name":"<>§r",
     "sf.weapon.explosive_bow.lore":"<>§r",
+
 
     "sf.tool.explosive_pickaxe.name":"§e<>§r",
     "sf.tool.explosive_pickaxe.lore.1":"§5<>§r",

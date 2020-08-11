@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:7270007,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.blade_of_vampires.name\"}',Lore:['{\"italic\":false,\"translate\":\"sf.weapon.blade_of_vampires.lore.1\"}','{}','{\"italic\":false,\"translate\":\"sf.weapon.blade_of_vampires.lore.2\",\"with\":[\"{\\\"translate\\\":\\\"enchantment.level.1\\\"}\"]}']},HideFlags:1,id:'sf:blade_of_vampires',Enchantments:[{id:\"minecraft:fire_aspect\",lvl:2},{id:\"minecraft:sharpness\",lvl:2},{id:\"minecraft:unbreaking\",lvl:5}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -9,14 +9,15 @@
 <details>
 <summary>CustomModelData 与 物品ID 对照表</summary>
 
-| CustomModelData | 物品ID | 物品名称 |
-| :----: | ---- | ---- |
-| 7270001 | grandmas_walking_stick | 奶奶的拐杖 |
-| 7270002 | grandpas_walking_stick | 爷爷的拐杖 |
-| 7270003 | icy_bow | 冰封之弓 |
-| 7270004 | explosive_pickaxe | 爆炸镐 |
-| 7270005 | sword_of_beheading | 斩首之剑 |
-| 7270006 | grappling_hook | 抓钩 |
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name |
+| :----: | ---- | ---- | ---- |
+| 7270001 | grandmas_walking_stick | 奶奶的拐杖 | Grandmas Walking Stick |
+| 7270002 | grandpas_walking_stick | 爷爷的拐杖 | Grandpas Walking Stick |
+| 7270003 | icy_bow | 冰封之弓 | Icy Bow |
+| 7270004 | explosive_pickaxe | 爆炸镐 | Explosive Pickaxe |
+| 7270005 | sword_of_beheading | 斩首之剑 | Sword of Beheading |
+| 7270006 | grappling_hook | 抓钩 | Grappling Hook |
+| 7270007 | blade_of_vampires | 吸血鬼之刀 | Blade of Vampires |
 </details>
 
 
