@@ -3,7 +3,7 @@
 
 
     "sf.weapon.grandmas_walking_stick.name":"§7<>§r",
-
+    
     "sf.weapon.grandpas_walking_stick.name":"§7<>§r",
 
     "sf.weapon.icy_bow.name":"§b<>§r",
@@ -12,11 +12,11 @@
     "sf.weapon.seismic_axe.name":"<>§r",
     "sf.weapon.seismic_axe.lore":"<>§r",
 
-    "sf.weapon.soulbound_bow.name":"<>§r",
-    "sf.weapon.soulbound_bow.lore":"<>§r",
+    "sf.weapon.soulbound_bow.name":"§c<>§r",
 
-    "sf.weapon.soulbound_sword.name":"<>§r",
-    "sf.weapon.soulbound_sword.lore":"<>§r",
+    "sf.weapon.soulbound_sword.name":"§c<>§r",
+
+    "sf.weapon.soulbound_trident.name":"§c<>§r",
 
     "sf.weapon.sword_of_beheading.name":"§6<>§r",
     "sf.weapon.sword_of_beheading.lore.1":"§5<>§r",
@@ -25,12 +25,32 @@
     "sf.weapon.blade_of_vampires.name":"§c<>§r",
     "sf.weapon.blade_of_vampires.lore.1":"§5<>§r",
     "sf.weapon.blade_of_vampires.lore.2":"§7<>§r",
-    
+
     "sf.weapon.explosive_bow.name":"<>§r",
     "sf.weapon.explosive_bow.lore":"<>§r",
 
 
-    "sf.tool.explosive_pickaxe.name":"§e<>§r",
-    "sf.tool.explosive_pickaxe.lore.1":"§5<>§r",
-    "sf.tool.explosive_pickaxe.lore.2":"§9<>§r"
+    "sf.tools.explosive_pickaxe.name":"§e<>§r",
+    "sf.tools.explosive_pickaxe.lore.1":"§5<>§r",
+    "sf.tools.explosive_pickaxe.lore.2":"§9<>§r",
+
+    "sf.tools.soulbound_hoe.name":"§c<>§r",
+
+    "sf.tools.soulbound_shovel.name":"§c<>§r",
+
+    "sf.tools.soulbound_axe.name":"§c<>§r",
+
+    "sf.tools.soulbound_pickaxe.name":"§c<>§r",
+
+
+    "sf.magical_armors.soulbound_helmet.name":"§c<>§r",
+
+    "sf.magical_armors.soulbound_chestplate.name":"§c<>§r",
+
+    "sf.magical_armors.soulbound_leggings.name":"§c<>§r",
+
+    "sf.magical_armors.soulbound_boots.name":"§c<>§r",
+
+
+    "sf.magical_items.soulbound_elytra.name":"§c<>§r"
 }
