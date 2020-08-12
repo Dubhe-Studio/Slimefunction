@@ -41,6 +41,9 @@
 ![授权](./授权.jpg)
 </details>
 
+# 开发附属
+[开发文档](./doc/创建Addons.md "附属开发文档")
+
 # 引用
 
 * [Minecraft插件百科页面](https://mineplugin.org/SlimeFun4 "Minecraft插件百科页面")
