@@ -22,10 +22,10 @@
 | 实体类型 | 掉落机会（斩首处决 I） |  掉落机会（斩首处决 II）  |  掉落机会（斩首处决 III）  |
 | :----: | ---- | ---- | ---- |
 | Entity type | Drop chance (Beheading I) | Drop chance (Beheading II) | Drop chance (Beheading III) |
-| Player | 60% | 70% | 80% |
-| Creeper | 30% | 40% | 50% |
-| Skeleton | 30% | 40% | 50% |
-| Zombie | 30% | 40% | 50% |
-| Wither Skeleton | 15% | 25% | 40% |
+| Player（玩家） | 60% | 70% | 80% |
+| Creeper（苦力怕） | 30% | 40% | 50% |
+| Skeleton（骷髅） | 30% | 40% | 50% |
+| Zombie（僵尸） | 30% | 40% | 50% |
+| Wither Skeleton（凋零骷髅） | 15% | 25% | 40% |
 |  |  |  |  |
 | 受抢夺附魔影响 | 每级+0% | 每级+10% | 每级+20% |
