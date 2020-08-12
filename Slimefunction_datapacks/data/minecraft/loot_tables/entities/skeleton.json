@@ -67,7 +67,33 @@
 					"predicate": {
 						"equipment":{
 							"mainhand":{
-								"nbt": "{id:'sf:sword_of_beheading'}"
+								"nbt": "{beheading:1s}"
+					  		}
+						}
+					},
+          "entity": "killer"
+				},
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.3
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:skeleton_skull"
+        }
+      ],
+      "conditions": [
+				{
+					"condition": "minecraft:entity_properties",
+					"predicate": {
+						"equipment":{
+							"mainhand":{
+								"nbt": "{beheading:2s}"
 					  		}
 						}
 					},
@@ -77,6 +103,33 @@
           "condition": "minecraft:random_chance_with_looting",
           "chance": 0.4,
           "looting_multiplier": 0.1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:skeleton_skull"
+        }
+      ],
+      "conditions": [
+				{
+					"condition": "minecraft:entity_properties",
+					"predicate": {
+						"equipment":{
+							"mainhand":{
+								"nbt": "{beheading:3s}"
+					  		}
+						}
+					},
+          "entity": "killer"
+				},
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.5,
+          "looting_multiplier": 0.2
         }
       ]
     }

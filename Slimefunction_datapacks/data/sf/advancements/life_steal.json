@@ -1,0 +1,74 @@
+{
+	"criteria": {
+		"life_steal_1": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+                "player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment":{
+								"mainhand":{
+									"nbt": "{life_steal:2s}"
+								}
+							}
+						}
+					},
+					{
+						"condition": "minecraft:random_chance",
+						"chance": 0.2
+					}
+				]
+			}
+		},
+		"life_steal_2": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+                "player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment":{
+								"mainhand":{
+									"nbt": "{life_steal:2s}"
+								}
+							}
+						}
+					},
+					{
+						"condition": "minecraft:random_chance",
+						"chance": 0.45
+					}
+				]
+			}
+		},
+		"life_steal_3": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+                "player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment":{
+								"mainhand":{
+									"nbt": "{life_steal:2s}"
+								}
+							}
+						}
+					},
+					{
+						"condition": "minecraft:random_chance",
+						"chance": 0.7
+					}
+				]
+			}
+		}
+	},
+	"requirements": [["life_steal_1"],["life_steal_2"],["life_steal_3"]],
+    "rewards": {
+        "function": "sf:action/items/weapons/blade_of_vampires/blade_of_vampires"
+    }
+}

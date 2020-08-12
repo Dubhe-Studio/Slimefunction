@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270014,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_boots.name\"}'},soul_bound:1b,id:'sf:soulbound_boots'}"
+							"tag": "{CustomModelData:7270014,id:'sf:soulbound_boots',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_boots.name\"}'}}"
 						}
 					]
 				}

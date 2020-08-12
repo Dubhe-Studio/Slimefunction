@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:727001,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_items.soulbound_elytra.name\"}'},soul_bound:1b,id:'sf:soulbound_elytra'}"
+							"tag": "{CustomModelData:727001,id:'sf:soulbound_elytra',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_items.soulbound_elytra.name\"}'}}"
 						}
 					]
 				}

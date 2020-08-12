@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270015,display:{Name:'{\"italic\":false,\"translate\":\"sf.tools.soulbound_hoe.name\"}'},soul_bound:1b,id:'sf:soulbound_hoe'}"
+							"tag": "{CustomModelData:7270015,id:'sf:soulbound_hoe',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.tools.soulbound_hoe.name\"}'}}"
 						}
 					]
 				}

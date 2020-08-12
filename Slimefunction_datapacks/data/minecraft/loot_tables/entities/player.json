@@ -21,7 +21,39 @@
 					"predicate": {
 						"equipment":{
 							"mainhand":{
-								"nbt": "{id:'sf:sword_of_beheading'}"
+								"nbt": "{beheading:1s}"
+					  		}
+						}
+					},
+					"entity": "killer"
+				},
+			    {
+				 "condition": "minecraft:random_chance_with_looting",
+				 "chance": 0.6
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:player_head",
+					"functions": [
+						{
+							"function": "minecraft:fill_player_head",
+							"entity": "this"
+						}
+					]
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:entity_properties",
+					"predicate": {
+						"equipment":{
+							"mainhand":{
+								"nbt": "{beheading:2s}"
 					  		}
 						}
 					},
@@ -31,6 +63,39 @@
 				 "condition": "minecraft:random_chance_with_looting",
 				 "chance": 0.7,
 				 "looting_multiplier": 0.1
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:player_head",
+					"functions": [
+						{
+							"function": "minecraft:fill_player_head",
+							"entity": "this"
+						}
+					]
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:entity_properties",
+					"predicate": {
+						"equipment":{
+							"mainhand":{
+								"nbt": "{beheading:3s}"
+					  		}
+						}
+					},
+					"entity": "killer"
+				},
+			    {
+				 "condition": "minecraft:random_chance_with_looting",
+				 "chance": 0.8,
+				 "looting_multiplier": 0.2
 				}
 			]
 		}
