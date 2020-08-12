@@ -32,6 +32,7 @@
 | 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra |
 </details>
 
+[制作计划](./doc/制作计划.md "制作计划")
 
 # 原作授权
 
