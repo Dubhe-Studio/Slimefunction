@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "sf:items/magical_items/soulbound_elytra"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "sf:items/magical_items/broken_soulbound_elytra"
+        }
+    ]
+}

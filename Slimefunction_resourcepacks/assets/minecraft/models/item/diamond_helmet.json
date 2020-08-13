@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond_helmet"
+  },
+	"overrides": [
+    { 
+      "predicate": { 
+        "custom_model_data": 7270011 
+      }, 
+      "model": "sf:items/magical_armors/soulbound_helmet"
+    }
+	]
+}

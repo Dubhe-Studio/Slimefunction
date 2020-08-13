@@ -9,27 +9,27 @@
 <details>
 <summary>CustomModelData 与 物品ID 对照表</summary>
 
-| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name |
-| :----: | ---- | ---- | ---- |
-| 7270001 | grandmas_walking_stick | 奶奶的拐杖 | Grandmas Walking Stick |
-| 7270002 | grandpas_walking_stick | 爷爷的拐杖 | Grandpas Walking Stick |
-| 7270003 | icy_bow | 冰封之弓 | Icy Bow |
-| 7270004 | explosive_pickaxe | 爆炸镐 | Explosive Pickaxe |
-| 7270005 | sword_of_beheading | 斩首之剑 | Sword of Beheading |
-| 7270006 | grappling_hook | 抓钩 | Grappling Hook |
-| 7270007 | blade_of_vampires | 吸血鬼之刀 | Blade of Vampires |
-| 7270008 | soulbound_sword | 灵魂绑定剑 | Soulbound Sword |
-| 7270009 | soulbound_bow | 灵魂绑定弓 | Soulbound Bow |
-| 7270010 | soulbound_trident | 灵魂绑定三叉戟 | Soulbound Trident |
-| 7270011 | soulbound_helmet | 灵魂绑定头盔 | Soulbound Helmet |
-| 7270012 | soulbound_chestplate | 灵魂绑定胸甲 | Soulbound Chestplate |
-| 7270013 | soulbound_leggings | 灵魂绑定护腿 | Soulbound Leggings |
-| 7270014 | soulbound_boots | 灵魂绑定靴子 | Soulbound Boots |
-| 7270015 | soulbound_hoe | 灵魂绑定锄 | Soulbound Hoe |
-| 7270016 | soulbound_shovel | 灵魂绑定锹 | Soulbound Shovel |
-| 7270017 | soulbound_axe | 灵魂绑定斧 | Soulbound Axe |
-| 7270018 | soulbound_pickaxe | 灵魂绑定镐 | Soulbound Pickaxe |
-| 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra |
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 7270001 | grandmas_walking_stick | 奶奶的拐杖 | Grandmas Walking Stick | 是 |
+| 7270002 | grandpas_walking_stick | 爷爷的拐杖 | Grandpas Walking Stick | 是 |
+| 7270003 | icy_bow | 冰封之弓 | Icy Bow |  |
+| 7270004 | explosive_pickaxe | 爆炸镐 | Explosive Pickaxe |  |
+| 7270005 | sword_of_beheading | 斩首之剑 | Sword of Beheading |  |
+| 7270006 | grappling_hook | 抓钩 | Grappling Hook |  |
+| 7270007 | blade_of_vampires | 吸血鬼之刀 | Blade of Vampires |  |
+| 7270008 | soulbound_sword | 灵魂绑定剑 | Soulbound Sword |  |
+| 7270009 | soulbound_bow | 灵魂绑定弓 | Soulbound Bow |  |
+| 7270010 | soulbound_trident | 灵魂绑定三叉戟 | Soulbound Trident |  |
+| 7270011 | soulbound_helmet | 灵魂绑定头盔 | Soulbound Helmet | 是 |
+| 7270012 | soulbound_chestplate | 灵魂绑定胸甲 | Soulbound Chestplate | 是 |
+| 7270013 | soulbound_leggings | 灵魂绑定护腿 | Soulbound Leggings | 是 |
+| 7270014 | soulbound_boots | 灵魂绑定靴子 | Soulbound Boots | 是 |
+| 7270015 | soulbound_hoe | 灵魂绑定锄 | Soulbound Hoe |  |
+| 7270016 | soulbound_shovel | 灵魂绑定锹 | Soulbound Shovel |  |
+| 7270017 | soulbound_axe | 灵魂绑定斧 | Soulbound Axe |  |
+| 7270018 | soulbound_pickaxe | 灵魂绑定镐 | Soulbound Pickaxe |  |
+| 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra | 是 |
 </details>
 
 [制作计划](./doc/制作计划.md "制作计划")

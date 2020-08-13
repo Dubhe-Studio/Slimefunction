@@ -4,7 +4,17 @@
     "layer0": "minecraft:item/stick"
   },
 	"overrides": [
-        { "predicate": { "custom_model_data": 7270001 }, "model": "sf:items/weapons/grandmas_walking_stick"},
-        { "predicate": { "custom_model_data": 7270002 }, "model": "sf:items/weapons/grandpas_walking_stick"}
+    { 
+      "predicate": { 
+        "custom_model_data": 7270001 
+      }, 
+      "model": "sf:items/weapons/grandmas_walking_stick"
+    },
+    { 
+      "predicate": { 
+        "custom_model_data": 7270002 
+      }, 
+      "model": "sf:items/weapons/grandpas_walking_stick"
+    }
 	]
 }
