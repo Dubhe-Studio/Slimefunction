@@ -14,10 +14,10 @@
 | 7270001 | grandmas_walking_stick | 奶奶的拐杖 | Grandmas Walking Stick | 是 |
 | 7270002 | grandpas_walking_stick | 爷爷的拐杖 | Grandpas Walking Stick | 是 |
 | 7270003 | icy_bow | 冰封之弓 | Icy Bow |  |
-| 7270004 | explosive_pickaxe | 爆炸镐 | Explosive Pickaxe |  |
+| 7270004 | explosive_pickaxe | 爆炸镐 | Explosive Pickaxe | 是 |
 | 7270005 | sword_of_beheading | 斩首之剑 | Sword of Beheading |  |
 | 7270006 | grappling_hook | 抓钩 | Grappling Hook |  |
-| 7270007 | blade_of_vampires | 吸血鬼之刀 | Blade of Vampires |  |
+| 7270007 | blade_of_vampires | 吸血鬼之刀 | Blade of Vampires | 是 |
 | 7270008 | soulbound_sword | 灵魂绑定剑 | Soulbound Sword |  |
 | 7270009 | soulbound_bow | 灵魂绑定弓 | Soulbound Bow |  |
 | 7270010 | soulbound_trident | 灵魂绑定三叉戟 | Soulbound Trident |  |
