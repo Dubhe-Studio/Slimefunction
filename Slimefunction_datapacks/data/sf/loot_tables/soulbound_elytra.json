@@ -5,7 +5,7 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:diamond_elytra",
+					"name": "minecraft:elytra",
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
