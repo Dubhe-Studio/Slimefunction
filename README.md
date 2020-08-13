@@ -29,7 +29,7 @@
 | 7270016 | soulbound_shovel | 灵魂绑定铲 | Soulbound Shovel | 是 |
 | 7270017 | soulbound_axe | 灵魂绑定斧 | Soulbound Axe | 是 |
 | 7270018 | soulbound_pickaxe | 灵魂绑定镐 | Soulbound Pickaxe | 是 |
-| 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra | 是 |
+| 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra | X |
 </details>
 
 [制作计划](./doc/制作计划.md "制作计划")
