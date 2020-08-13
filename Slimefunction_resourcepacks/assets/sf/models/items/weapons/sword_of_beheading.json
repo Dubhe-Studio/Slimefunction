@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "sf:items/weapons/sword_of_beheading"
+  }
+}
