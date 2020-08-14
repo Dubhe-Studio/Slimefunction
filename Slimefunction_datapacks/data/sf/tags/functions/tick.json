@@ -2,6 +2,7 @@
     "values":[
         "sf:action/items/tools/explosive_pickaxe/tick",
         "sf:action/items/weapons/icy_bow/tick",
-        "sf:main/soul_bound/tick"
+        "sf:main/soul_bound/tick",
+        "sf:main/beta/execute"
     ]
 }
