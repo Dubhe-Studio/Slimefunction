@@ -47,6 +47,12 @@
                 "throwing": 1
             },
             "model": "item/trident_throwing"
+        },
+        { 
+            "predicate": { 
+                "custom_model_data": 7270010
+            }, 
+            "model": "sf:items/weapons/soulbound_in_hand"
         }
     ]
 }

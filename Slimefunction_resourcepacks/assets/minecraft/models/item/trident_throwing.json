@@ -40,5 +40,13 @@
             "translation": [ 4, 4, 2],
             "scale":[ 0.25, 0.25, 0.25]
         }
-    }
+    },
+    "overrides": [
+        { 
+            "predicate": { 
+                "custom_model_data": 7270010
+            }, 
+            "model": "sf:items/weapons/soulbound_trident_throwing"
+        }
+    ]
 }

@@ -1,0 +1,14 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "item/bow_pulling_0"
+    },
+    "overrides": [
+        { 
+            "predicate": { 
+                "custom_model_data": 7270009
+            }, 
+            "model": "sf:items/weapons/soulbound_bow_pulling_0"
+        }
+    ]
+}
