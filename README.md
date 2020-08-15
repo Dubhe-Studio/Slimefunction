@@ -30,8 +30,10 @@
 | 7270017 | soulbound_axe | 灵魂绑定斧 | Soulbound Axe | ✔ |
 | 7270018 | soulbound_pickaxe | 灵魂绑定镐 | Soulbound Pickaxe | ✔ |
 | 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra | CIT |
-  
-<p style="color:gray;font-style:italic;">注 : CIT为拓展资源包(需optifine)</p>
+
+
+<font color=gray>*注 : CIT为拓展资源包(需optifine)*</font>
+<p style="color:gray;font-style:italic;"></p>
 </details>
 
 [制作计划](./doc/制作计划.md "制作计划")
