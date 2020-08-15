@@ -7,8 +7,8 @@
 ### 物品对照表
 
 * `自定义模型区段：7270000~7279999`
-
-<font color=gray>*注 : CIT为拓展资源包(需OptiFine)*</font>
+* `CIT 需OptiFine才能显示`
+* `✔ : 完成    ❌ : 错误    ✖ : 未开始`
 
 <details>
 <summary>武器</summary>
