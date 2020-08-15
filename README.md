@@ -21,10 +21,10 @@
 | 7270008 | soulbound_sword | 灵魂绑定剑 | Soulbound Sword | ✔ |
 | 7270009 | soulbound_bow | 灵魂绑定弓 | Soulbound Bow | ✔ |
 | 7270010 | soulbound_trident | 灵魂绑定三叉戟 | Soulbound Trident | CIT |
-| 7270011 | soulbound_helmet | 灵魂绑定头盔 | Soulbound Helmet | ✔ |
-| 7270012 | soulbound_chestplate | 灵魂绑定胸甲 | Soulbound Chestplate | ✔ |
-| 7270013 | soulbound_leggings | 灵魂绑定护腿 | Soulbound Leggings | ✔ |
-| 7270014 | soulbound_boots | 灵魂绑定靴子 | Soulbound Boots | ✔ |
+| 7270011 | soulbound_helmet | 灵魂绑定头盔 | Soulbound Helmet | ✔/CIT |
+| 7270012 | soulbound_chestplate | 灵魂绑定胸甲 | Soulbound Chestplate | ✔/CIT |
+| 7270013 | soulbound_leggings | 灵魂绑定护腿 | Soulbound Leggings | ✔/CIT |
+| 7270014 | soulbound_boots | 灵魂绑定靴子 | Soulbound Boots | ✔/CIT |
 | 7270015 | soulbound_hoe | 灵魂绑定锄 | Soulbound Hoe | ✔ |
 | 7270016 | soulbound_shovel | 灵魂绑定铲 | Soulbound Shovel | ✔ |
 | 7270017 | soulbound_axe | 灵魂绑定斧 | Soulbound Axe | ✔ |
