@@ -21,7 +21,7 @@
 | 7270004 | blade_of_vampires | 吸血鬼之刀 | Blade of Vampires | ✔/✔ |
 | 7270005 | seismic_axe | 地震斧 | Seismic Axe | ✖/✖ |
 | 7270006 | soulbound_sword | 灵魂绑定剑 | Soulbound Sword | ✔/✔ |
-| 7270007 | soulbound_trident | 灵魂绑定三叉戟 | Soulbound Trident | ✔/❌ |
+| 7270007 | soulbound_trident | 灵魂绑定三叉戟 | Soulbound Trident | ✔/✖CIT |
 | 7270008 | soulbound_bow | 灵魂绑定弓 | Soulbound Bow | ✔/✔ |
 | 7270009 | explosive_bow | 爆裂之弓 | Explosive Bow | ✖/✖ |
 | 7270010 | icy_bow | 冰封之弓 | Icy Bow | ❌/✔ |
@@ -30,7 +30,7 @@
 <details>
 <summary>工具</summary>
 
-| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 资源包 |
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
 | :----: | ---- | ---- | ---- | ---- |
 | 7270011 |  | 淘金盘 |  | ✖/✖ |
 | 7270012 |  | 下界淘金盘 |  | ✖/✖ |
@@ -53,7 +53,7 @@
 <details>
 <summary>防具</summary>
 
-| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 资源包 |
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
 | :----: | ---- | ---- | ---- | ---- |
 | 7270027 |  | 大马士革钢头盔 |  | ✖/✖ |
 | 7270028 |  | 大马士革钢胸甲 |  | ✖/✖ |
@@ -88,7 +88,7 @@
 <details>
 <summary>魔法防具</summary>
 
-| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 资源包 |
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
 | :----: | ---- | ---- | ---- | ---- |
 | 7270055 |  | 末影头盔 |  | ✖/✖ |
 | 7270056 |  | 末影胸甲 |  | ✖/✖ |
@@ -117,7 +117,7 @@
 <details>
 <summary>魔法道具</summary>
 
-| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 资源包 |
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
 | :----: | ---- | ---- | ---- | ---- |
 | 7270077 |  | 末影背包 |  | ✖/✖ |
 | 7270078 |  | 魔法末影之眼 |  | ✖/✖ |
@@ -137,7 +137,7 @@
 | 7270092 |  | 鞘翅鳞片 |  | ✖/✖ |
 | 7270093 |  | 鞘翅 |  | ✖/✖ |
 | 7270094 |  | 鞘翅(经验修补) |  | ✖/✖ |
-| 7270095 | soulbound_elytra | 鞘翅(灵魂绑定) | Soulbound Elytra | ✔/CIT |
+| 7270095 | soulbound_elytra | 鞘翅(灵魂绑定) | Soulbound Elytra | ✔/✖CIT |
 | 7270096 |  | 不死图腾 |  | ✖/✖ |
 | 7270097 |  | 彩虹羊毛 |  | ✖/✖ |
 | 7270098 |  | 彩虹玻璃 |  | ✖/✖ |
