@@ -6,7 +6,7 @@
   "overrides": [
     { 
       "predicate": { 
-        "custom_model_data": 7270016
+        "custom_model_data": 7270025
       }, 
       "model": "sf:items/tools/soulbound_shovel"
     }

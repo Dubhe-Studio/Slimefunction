@@ -6,7 +6,7 @@
   "overrides": [
     { 
       "predicate": { 
-        "custom_model_data": 7270008
+        "custom_model_data": 7270006
       }, 
       "model": "sf:items/weapons/soulbound_sword"
     }

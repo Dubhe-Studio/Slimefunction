@@ -6,13 +6,13 @@
 	"overrides": [
     { 
       "predicate": { 
-        "custom_model_data": 7270004 
+        "custom_model_data": 7270018
       }, 
       "model": "sf:items/tools/explosive_pickaxe"
     },
     {
       "predicate": { 
-        "custom_model_data": 7270018
+        "custom_model_data": 7270023
       },
       "model": "sf:items/tools/soulbound_pickaxe"
     }

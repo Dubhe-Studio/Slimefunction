@@ -6,7 +6,7 @@
   "overrides": [
     { 
       "predicate": { 
-        "custom_model_data": 7270005
+        "custom_model_data": 7270003
       }, 
       "model": "sf:items/weapons/sword_of_beheading"
     }

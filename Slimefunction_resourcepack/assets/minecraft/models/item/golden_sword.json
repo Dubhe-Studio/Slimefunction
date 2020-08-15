@@ -6,7 +6,7 @@
 	"overrides": [
     { 
       "predicate": { 
-        "custom_model_data": 7270007
+        "custom_model_data": 7270004
       }, 
       "model": "sf:items/weapons/blade_of_vampires"
     }

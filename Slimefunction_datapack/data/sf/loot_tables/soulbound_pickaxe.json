@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270018,id:'sf:soulbound_pickaxe',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.tools.soulbound_pickaxe.name\"}'}}"
+							"tag": "{CustomModelData:7270023,id:'sf:soulbound_pickaxe',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.tools.soulbound_pickaxe.name\"}'}}"
 						}
 					]
 				}

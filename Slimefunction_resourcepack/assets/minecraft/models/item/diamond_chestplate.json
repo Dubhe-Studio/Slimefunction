@@ -6,7 +6,7 @@
 	"overrides": [
     { 
       "predicate": { 
-        "custom_model_data": 7270012
+        "custom_model_data": 7270074
       }, 
       "model": "sf:items/magical_armors/soulbound_chestplate"
     }
