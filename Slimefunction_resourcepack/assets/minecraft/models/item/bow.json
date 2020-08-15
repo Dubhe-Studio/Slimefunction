@@ -28,29 +28,6 @@
     "overrides": [
         { 
             "predicate": { 
-                "custom_model_data": 7270009,
-                "pulling": 1
-            }, 
-            "model": "sf:items/weapons/soulbound_bow_pulling_0"
-        },
-        { 
-            "predicate": { 
-                "custom_model_data": 7270009,
-                "pulling": 1,
-                "pull": 0.65
-            }, 
-            "model": "sf:items/weapons/soulbound_bow_pulling_1"
-        },
-        { 
-            "predicate": { 
-                "custom_model_data": 7270009,
-                "pulling": 1,
-                "pull": 0.9
-            }, 
-            "model": "sf:items/weapons/soulbound_bow_pulling_2"
-        },
-        { 
-            "predicate": { 
                 "custom_model_data": 7270009
             }, 
             "model": "sf:items/weapons/soulbound_bow"
