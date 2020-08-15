@@ -32,7 +32,6 @@
 | 7270019 | soulbound_elytra | 灵魂绑定鞘翅 | Soulbound Elytra | CIT |
   
 <font color=gray>*注 : CIT为拓展资源包(需OptiFine)*</font>
-<p style="color:gray;font-style:italic;"></p>
 </details>
 
 [制作计划](./doc/制作计划.md "制作计划")
