@@ -4,7 +4,7 @@
 [![Github Issues](https://img.shields.io/github/issues/Dubhe-Development-Team/Slimefunction.svg?style=popout)](https://github.com/Dubhe-Development-Team/Slimefunction/issues)
 ![Github stars](https://img.shields.io/github/stars/Dubhe-Development-Team/Slimefunction.svg)
 
-[物品对照表](./doc/物品对照表)
+* **[物品对照表](./doc/物品对照表)**
 
 ## 原作授权
 
