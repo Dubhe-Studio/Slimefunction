@@ -148,6 +148,144 @@
 | 7270103 |  | 吸入漏斗 |  | ✖/✖ |
 
 </details>
+<details>
+<summary>魔法物品</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 7270104 |  | 魔法因子 - I |  | ✖/✖ |
+| 7270105 |  | 魔法因子 - II |  | ✖/✖ |
+| 7270106 |  | 魔法因子 - III |  | ✖/✖ |
+| 7270107 |  | 末影因子 - I |  | ✖/✖ |
+| 7270108 |  | 末影因子 - II |  | ✖/✖ |
+| 7270109 |  | 末影因子 - III |  | ✖/✖ |
+| 7270110 |  | 魔法书皮 |  | ✖/✖ |
+| 7270111 |  | 岩浆水晶 |  | ✖/✖ |
+| 7270112 |  | 普通护身符 |  | ✖/✖ |
+| 7270113 |  | 坏死颅骨 |  | ✖/✖ |
+| 7270114 |  | 来世精华 |  | ✖/✖ |
+| 7270115 |  | 已损坏的刷怪笼 |  | ✖/✖ |
+| 7270116 |  | 古代基座 |  | ✖/✖ |
+| 7270117 |  | 空白符文 |  | ✖/✖ |
+| 7270118 |  | 古代符文 [气] |  | ✖/✖ |
+| 7270119 |  | 古代符文 [地] |  | ✖/✖ |
+| 7270120 |  | 古代符文 [火] |  | ✖/✖ |
+| 7270121 |  | 古代符文 [水] |  | ✖/✖ |
+| 7270122 |  | 古代符文 [末影] |  | ✖/✖ |
+| 7270123 |  | 古代符文 [雷] |  | ✖/✖ |
+| 7270124 |  | 古代符文 [虹] |  | ✖/✖ |
+| 7270125 |  | 古代符文 [灵魂绑定] |  | ✖/✖ |
+
+</details>
+<details>
+<summary>护身符(I 级)</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>护身符(II 级)</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>矿物资源</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>食物</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>有用的物品</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>杂项用品</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>基础机器</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>科技零件</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>科技工具</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>能源与电力</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>基于GPS的机器</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>可编程式机器人</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+<details>
+<summary>货物管理</summary>
+
+| CustomModelData | 物品ID(Item's ID) | 物品名称 | Item's Name | 数据/资源包 |
+| :----: | ---- | ---- | ---- | ---- |
+| 72701 |  |  |  | ✖/✖ |
+
+</details>
+
+
+
+
+
 
 [制作计划](./doc/制作计划.md "制作计划")
 
