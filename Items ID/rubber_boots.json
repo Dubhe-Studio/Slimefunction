@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:<>",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:727<>,display:{Lore:['{\"italic\":false,\"translate\":\"sf.<>.lore\"}'],Name:'{\"italic\":false,\"translate\":\"sf.<>.name\"}'},id:'sf:<>'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

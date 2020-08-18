@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "sf:items/weapons/explosive_bow_pulling_0"
+    }
+}

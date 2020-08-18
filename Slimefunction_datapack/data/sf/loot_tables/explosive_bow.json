@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:bow",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270009,display:{Lore:['{\"italic\":false,\"translate\":\"sf.weapon.explosive_bow.lore\"}'],Name:'{\"italic\":false,\"translate\":\"sf.weapon.explosive_bow.name\"}'},id:'sf:explosive_bow'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -7,7 +7,7 @@
 					"type":{
 						"direct_entity": {
 							"type": "arrow",
-							"nbt": "{Tags:[\"sf_icy_arrow\"]}"
+							"nbt": "{Tags:[\"sf_explosive_arrow\"]}"
 						}
 					}
                 }
@@ -15,6 +15,6 @@
 		}
 	},
 	"rewards": {
-		"function": "sf:action/items/weapons/bow/icy_bow"
+		"function": "sf:action/items/weapons/bow/explosive_bow"
 	}
 }

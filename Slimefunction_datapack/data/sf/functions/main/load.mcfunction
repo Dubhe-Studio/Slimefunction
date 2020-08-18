@@ -1,1 +1,0 @@
-scoreboard objectives add sf_value dummy
