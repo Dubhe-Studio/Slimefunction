@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"icy_bow": {
+			"trigger": "minecraft:entity_hurt_player",
+			"conditions": {
+                "damage":{
+					"type":{
+						"direct_entity": {
+							"type": "arrow",
+							"nbt": "{Tags:[\"sf_icy_arrow\"]}"
+						}
+					}
+                }
+			}
+		}
+	},
+	"rewards": {
+		"function": "sf:action/items/weapons/icy_bow/icy_bow"
+	}
+}
