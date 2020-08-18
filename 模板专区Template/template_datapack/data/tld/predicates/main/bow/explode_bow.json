@@ -1,0 +1,51 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "mainhand": {
+                        "item": "minecraft:bow",
+                        "nbt": "{Skills:[\"explode\"]}"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:alternative",
+                "terms": [
+                    {
+                        "condition": "minecraft:inverted",
+                        "term": {
+                            "condition": "minecraft:entity_properties",
+                            "entity": "this",
+                            "predicate": {
+                                "equipment": {
+                                    "offhand": {
+                                        "item": "minecraft:bow",
+                                        "nbt": "{Skills:[\"explode\"]}"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "equipment": {
+                                "mainhand": {
+                                    "item": "minecraft:bow"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
