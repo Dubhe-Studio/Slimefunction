@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_pickaxe",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270014,display:{Lore:['{\"italic\":false,\"translate\":\"sf.tool.smelter_pickaxe.lore1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tool.smelter_pickaxe.lore2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.tool.smelter_pickaxe.name\"}'},id:'sf:smelter_pickaxe'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

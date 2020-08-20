@@ -1,57 +1,59 @@
 {
-    "sf.Slimefunction":"§6§l粘液科技§r§r",
+    "sf.Slimefunction":"§6§l粘液科技",
 
 
-    "sf.weapon.grandmas_walking_stick.name":"§7奶奶的拐杖§r",
+    "sf.weapon.grandmas_walking_stick.name":"奶奶的拐杖",
     
-    "sf.weapon.grandpas_walking_stick.name":"§7爷爷的拐杖§r",
+    "sf.weapon.grandpas_walking_stick.name":"爷爷的拐杖",
 
-    "sf.weapon.icy_bow.name":"§b冰封之弓§r",
-    "sf.weapon.icy_bow.lore1":"§5被此弓射出的箭击中§r",
-    "sf.weapon.icy_bow.lore2":"§5将会因寒冷而无法移动（2秒内）§r",
+    "sf.weapon.icy_bow.name":"§b冰封之弓",
+    "sf.weapon.icy_bow.lore1":"§5被此弓射出的箭击中",
+    "sf.weapon.icy_bow.lore2":"§5将会因寒冷而无法移动（2秒内）",
     
-    "sf.weapon.seismic_axe.name":"<>§r",
-    "sf.weapon.seismic_axe.lore":"<>§r",
+    "sf.weapon.seismic_axe.name":"<>",
+    "sf.weapon.seismic_axe.lore":"<>",
 
-    "sf.weapon.soulbound_bow.name":"§c灵魂绑定弓§r",
+    "sf.weapon.soulbound_bow.name":"§c灵魂绑定弓",
 
-    "sf.weapon.soulbound_sword.name":"§c灵魂绑定剑§r",
+    "sf.weapon.soulbound_sword.name":"§c灵魂绑定剑",
 
-    "sf.weapon.soulbound_trident.name":"§c灵魂绑定三叉戟§r",
+    "sf.weapon.soulbound_trident.name":"§c灵魂绑定三叉戟",
 
-    "sf.weapon.sword_of_beheading.name":"§6处决之剑§r",
-    "sf.weapon.sword_of_beheading.lore.1":"§5有几率砍下生物的头（提高掉落凋灵骷髅头的几率）§r",
-    "sf.weapon.sword_of_beheading.lore.2":"§7斩首处决 %s§r",
+    "sf.weapon.sword_of_beheading.name":"处决之剑",
+    "sf.weapon.sword_of_beheading.lore.1":"斩首处决 %s",
+    "sf.weapon.sword_of_beheading.lore.2":"有几率砍下生物的头",
+    "sf.weapon.sword_of_beheading.lore.3":"（提高掉落凋灵骷髅头的几率）",
 
-    "sf.weapon.blade_of_vampires.name":"§c吸血鬼之刀§r",
-    "sf.weapon.blade_of_vampires.lore.1":"§5在攻击时有45%的几率使自己恢复两点血量§r",
-    "sf.weapon.blade_of_vampires.lore.2":"§7生命窃取 %s§r",
+    "sf.weapon.blade_of_vampires.name":"吸血鬼之刀",
+    "sf.weapon.blade_of_vampires.lore.1":"生命窃取 %s",
+    "sf.weapon.blade_of_vampires.lore.2":"在攻击时有 45% 的几率",
+    "sf.weapon.blade_of_vampires.lore.3":"使自己恢复 2 点血量",
 
-    "sf.weapon.explosive_bow.name":"§c爆裂之弓§r",
-    "sf.weapon.explosive_bow.lore":"§5被爆裂之弓射出的箭击中将会飞上天§r",
-
-
-    "sf.tools.explosive_pickaxe.name":"§e爆炸镐§r",
-    "sf.tools.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物§r",
-    "sf.tools.explosive_pickaxe.lore.2":"§9兼容时运附魔§r",
-
-    "sf.tools.soulbound_hoe.name":"§c灵魂绑定锄§r",
-
-    "sf.tools.soulbound_shovel.name":"§c灵魂绑定锹§r",
-
-    "sf.tools.soulbound_axe.name":"§c灵魂绑定斧§r",
-
-    "sf.tools.soulbound_pickaxe.name":"§c灵魂绑定镐§r",
+    "sf.weapon.explosive_bow.name":"§c爆裂之弓",
+    "sf.weapon.explosive_bow.lore":"§5被爆裂之弓射出的箭击中将会飞上天",
 
 
-    "sf.magical_armors.soulbound_helmet.name":"§c灵魂绑定头盔§r",
+    "sf.tools.explosive_pickaxe.name":"§e爆炸镐",
+    "sf.tools.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物",
+    "sf.tools.explosive_pickaxe.lore.2":"§9兼容时运附魔",
 
-    "sf.magical_armors.soulbound_chestplate.name":"§c灵魂绑定胸甲§r",
+    "sf.tools.soulbound_hoe.name":"§c灵魂绑定锄",
 
-    "sf.magical_armors.soulbound_leggings.name":"§c灵魂绑定护腿§r",
+    "sf.tools.soulbound_shovel.name":"§c灵魂绑定锹",
 
-    "sf.magical_armors.soulbound_boots.name":"§c灵魂绑定靴子§r",
+    "sf.tools.soulbound_axe.name":"§c灵魂绑定斧",
+
+    "sf.tools.soulbound_pickaxe.name":"§c灵魂绑定镐",
 
 
-    "sf.magical_items.soulbound_elytra.name":"§c灵魂绑定鞘翅§r"
+    "sf.magical_armors.soulbound_helmet.name":"§c灵魂绑定头盔",
+
+    "sf.magical_armors.soulbound_chestplate.name":"§c灵魂绑定胸甲",
+
+    "sf.magical_armors.soulbound_leggings.name":"§c灵魂绑定护腿",
+
+    "sf.magical_armors.soulbound_boots.name":"§c灵魂绑定靴子",
+
+
+    "sf.magical_items.soulbound_elytra.name":"§c灵魂绑定鞘翅"
 }
