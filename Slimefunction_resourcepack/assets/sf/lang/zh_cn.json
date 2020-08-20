@@ -32,6 +32,9 @@
     "sf.weapon.explosive_bow.name":"爆裂之弓",
     "sf.weapon.explosive_bow.lore":"被爆裂之弓射出的箭击中将会飞上天",
 
+    "sf.tool.smelter_pickaxe.name":"熔炉镐",
+    "sf.tool.smelter_pickaxe.lore1":"自动熔炼",
+    "sf.tool.smelter_pickaxe.lore2":"兼容时运附魔",
 
     "sf.tools.explosive_pickaxe.name":"爆炸镐",
     "sf.tools.explosive_pickaxe.lore.1":"允许你在一瞬间挖掘矿物",
