@@ -6,18 +6,18 @@
     
     "sf.weapon.grandpas_walking_stick.name":"爷爷的拐杖",
 
-    "sf.weapon.icy_bow.name":"§b冰封之弓",
-    "sf.weapon.icy_bow.lore1":"§5被此弓射出的箭击中",
-    "sf.weapon.icy_bow.lore2":"§5将会因寒冷而无法移动（2秒内）",
+    "sf.weapon.icy_bow.name":"冰封之弓",
+    "sf.weapon.icy_bow.lore1":"被此弓射出的箭击中",
+    "sf.weapon.icy_bow.lore2":"将会因寒冷而无法移动（2秒内）",
     
     "sf.weapon.seismic_axe.name":"<>",
     "sf.weapon.seismic_axe.lore":"<>",
 
-    "sf.weapon.soulbound_bow.name":"§c灵魂绑定弓",
+    "sf.weapon.soulbound_bow.name":"灵魂绑定弓",
 
-    "sf.weapon.soulbound_sword.name":"§c灵魂绑定剑",
+    "sf.weapon.soulbound_sword.name":"灵魂绑定剑",
 
-    "sf.weapon.soulbound_trident.name":"§c灵魂绑定三叉戟",
+    "sf.weapon.soulbound_trident.name":"灵魂绑定三叉戟",
 
     "sf.weapon.sword_of_beheading.name":"处决之剑",
     "sf.weapon.sword_of_beheading.lore.1":"斩首处决 %s",
@@ -29,31 +29,31 @@
     "sf.weapon.blade_of_vampires.lore.2":"在攻击时有 45% 的几率",
     "sf.weapon.blade_of_vampires.lore.3":"使自己恢复 2 点血量",
 
-    "sf.weapon.explosive_bow.name":"§c爆裂之弓",
-    "sf.weapon.explosive_bow.lore":"§5被爆裂之弓射出的箭击中将会飞上天",
+    "sf.weapon.explosive_bow.name":"爆裂之弓",
+    "sf.weapon.explosive_bow.lore":"被爆裂之弓射出的箭击中将会飞上天",
 
 
-    "sf.tools.explosive_pickaxe.name":"§e爆炸镐",
-    "sf.tools.explosive_pickaxe.lore.1":"§5允许你在一瞬间挖掘矿物",
-    "sf.tools.explosive_pickaxe.lore.2":"§9兼容时运附魔",
+    "sf.tools.explosive_pickaxe.name":"爆炸镐",
+    "sf.tools.explosive_pickaxe.lore.1":"允许你在一瞬间挖掘矿物",
+    "sf.tools.explosive_pickaxe.lore.2":"兼容时运和精准附魔",
 
-    "sf.tools.soulbound_hoe.name":"§c灵魂绑定锄",
+    "sf.tools.soulbound_hoe.name":"灵魂绑定锄",
 
-    "sf.tools.soulbound_shovel.name":"§c灵魂绑定锹",
+    "sf.tools.soulbound_shovel.name":"灵魂绑定锹",
 
-    "sf.tools.soulbound_axe.name":"§c灵魂绑定斧",
+    "sf.tools.soulbound_axe.name":"灵魂绑定斧",
 
-    "sf.tools.soulbound_pickaxe.name":"§c灵魂绑定镐",
-
-
-    "sf.magical_armors.soulbound_helmet.name":"§c灵魂绑定头盔",
-
-    "sf.magical_armors.soulbound_chestplate.name":"§c灵魂绑定胸甲",
-
-    "sf.magical_armors.soulbound_leggings.name":"§c灵魂绑定护腿",
-
-    "sf.magical_armors.soulbound_boots.name":"§c灵魂绑定靴子",
+    "sf.tools.soulbound_pickaxe.name":"灵魂绑定镐",
 
 
-    "sf.magical_items.soulbound_elytra.name":"§c灵魂绑定鞘翅"
+    "sf.magical_armors.soulbound_helmet.name":"灵魂绑定头盔",
+
+    "sf.magical_armors.soulbound_chestplate.name":"灵魂绑定胸甲",
+
+    "sf.magical_armors.soulbound_leggings.name":"灵魂绑定护腿",
+
+    "sf.magical_armors.soulbound_boots.name":"灵魂绑定靴子",
+
+
+    "sf.magical_items.soulbound_elytra.name":"鞘翅（灵魂绑定）"
 }
