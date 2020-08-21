@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270075,id:'sf:soulbound_leggings',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_leggings.name\"}'}}"
+							"tag": "{CustomModelData:7270075,id:'sf:soulbound_leggings',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_leggings.name\",\"color\":\"red\"}'}}"
 						}
 					]
 				}

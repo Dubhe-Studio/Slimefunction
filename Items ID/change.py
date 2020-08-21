@@ -5,7 +5,7 @@ text = "{\n\t\"pools\": [\n\t\t{\n\t\t\t\"rolls\": 1,\n\t\t\t\"entries\": [\n\t\
 
 dirs = os.listdir(Path())
 for i in dirs:
-    if not i.endswith('.py') and not i.endswith('.json'):
+    if not i.endswith('.py') and not i.endswith('.json') and not os.path.isdir(i):
         change_name = i.lower().replace(' ', '_') + '.json'
         os.rename(Path()/i, Path()/change_name)
         with open(Path()/change_name, 'w')as f:

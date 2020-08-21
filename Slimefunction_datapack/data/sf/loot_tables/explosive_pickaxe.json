@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270018,id:'sf:explosive_pickaxe',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tools.explosive_pickaxe.lore.1\"}',\"{}\",'{\"italic\":false,\"translate\":\"sf.tools.explosive_pickaxe.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.tools.explosive_pickaxe.name\"}'}}"
+							"tag": "{CustomModelData:7270018,id:'sf:explosive_pickaxe',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tools.explosive_pickaxe.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tools.explosive_pickaxe.lore.2\",\"color\":\"blue\"}'],Name:'{\"italic\":false,\"translate\":\"sf.tools.explosive_pickaxe.name\",\"color\":\"yellow\"}'}}"
 						}
 					]
 				}

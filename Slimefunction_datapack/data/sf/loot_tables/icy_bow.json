@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270010,id:'sf:icy_bow',display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.icy_bow.name\"}',Lore:['{\"italic\":false,\"translate\":\"sf.weapon.icy_bow.lore1\"}','{\"italic\":false,\"translate\":\"sf.weapon.icy_bow.lore2\"}']}}"
+							"tag": "{CustomModelData:7270010,id:'sf:icy_bow',display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.icy_bow.name\",\"color\":\"aqua\"}',Lore:['{\"italic\":false,\"translate\":\"sf.weapon.icy_bow.lore1\"}','{\"italic\":false,\"translate\":\"sf.weapon.icy_bow.lore2\"}']}}"
 						}
 					]
 				}
