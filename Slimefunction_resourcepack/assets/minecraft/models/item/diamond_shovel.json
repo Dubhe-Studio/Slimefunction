@@ -6,6 +6,12 @@
   "overrides": [
     { 
       "predicate": { 
+        "custom_model_data": 7270019
+      }, 
+      "model": "sf:items/tools/explosive_shovel"
+    },
+    { 
+      "predicate": { 
         "custom_model_data": 7270025
       }, 
       "model": "sf:items/tools/soulbound_shovel"

@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_shovel",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270019,id:'sf:explosive_shovel',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tools.explosive_shovel.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tools.explosive_shovel.lore.2\",\"color\":\"blue\"}'],Name:'{\"italic\":false,\"translate\":\"sf.tools.explosive_shovel.name\",\"color\":\"yellow\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
