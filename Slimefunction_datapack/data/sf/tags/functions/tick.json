@@ -1,6 +1,6 @@
 {
     "values":[
-        "sf:action/items/tools/explosive_pickaxe/tick",
+        "sf:action/items/tools/pickaxe/tick",
         "sf:action/items/weapons/bow/tick",
         "sf:main/soul_bound/tick",
         "sf:main/beta/execute"

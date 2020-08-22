@@ -1,1 +1,0 @@
-scoreboard objectives add sf_exp_pick minecraft.used:minecraft.diamond_pickaxe
