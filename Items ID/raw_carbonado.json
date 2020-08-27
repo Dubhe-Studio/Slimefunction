@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:firework_star",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270<>,display:{Lore:['{\"italic\":false,\"translate\":\"sf.raw_carbonado.lore\"}'],Name:'{\"italic\":false,\"translate\":\"sf.raw_carbonado.name\"}'},id:'sf:raw_carbonado,dict:[\"raw_carbonado\"]'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

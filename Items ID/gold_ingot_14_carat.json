@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:firework_star",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270<>,display:{Lore:['{\"italic\":false,\"translate\":\"sf.gold_ingot_14_carat.lore\"}'],Name:'{\"italic\":false,\"translate\":\"sf.gold_ingot_14_carat.name\"}'},id:'sf:gold_ingot_14_carat,dict:[\"gold_ingot_14_carat\"]'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
