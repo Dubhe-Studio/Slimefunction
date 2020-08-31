@@ -33,6 +33,6 @@
 
 ## 感谢
 
- - 感谢 [**WindChange**](https://www.mcbbs.net/?2035357) 授权的**粘液科技资源包**
+ - 感谢 [**WindChange**](https://www.mcbbs.net/?2035357) [授权](./img/资源包.png)的**粘液科技资源包**
  - 感谢 [**Y制杖杖**](https://www.mcbbs.net/?2103018) [授权](./img/灵魂绑定.png)的**灵魂绑定**代码
  - 感谢 [**Ph-苯**](https://www.mcbbs.net/?588878) [授权](./img/连锁.png)的**连锁**代码
