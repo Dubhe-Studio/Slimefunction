@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "sf:items/resources/tin_dust.json"
+        "layer0": "sf:items/resources/tin_dust"
     }
 }

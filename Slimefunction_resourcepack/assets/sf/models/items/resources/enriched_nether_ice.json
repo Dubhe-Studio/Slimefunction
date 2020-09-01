@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "sf:items/resources/enriched_nether_ice.json"
+        "layer0": "sf:items/resources/enriched_nether_ice"
     }
 }

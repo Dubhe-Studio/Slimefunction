@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "sf:items/resources/bucket_of_oil.json"
+        "layer0": "sf:items/resources/bucket_of_oil"
     }
 }

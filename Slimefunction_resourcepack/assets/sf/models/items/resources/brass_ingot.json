@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "sf:items/resources/brass_ingot.json"
+        "layer0": "sf:items/resources/brass_ingot"
     }
 }

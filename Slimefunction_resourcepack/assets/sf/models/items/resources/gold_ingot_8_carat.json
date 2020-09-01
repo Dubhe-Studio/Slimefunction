@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "sf:items/resources/gold_ingot_8_carat.json"
+        "layer0": "sf:items/resources/gold_ingot_8_carat"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "sf:items/resources/synthetic_diamond.json"
+        "layer0": "sf:items/resources/synthetic_diamond"
     }
 }
