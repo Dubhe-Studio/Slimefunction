@@ -37,9 +37,6 @@ for i in item:
         if not os.path.exists(os.path.join(sfpath, j[4], j[1]+'.json')):
             with open(os.path.join(sfpath, j[4], j[1]+'.json'), "w+")as f:
                 f.write(json.dumps({"parent": "item/handheld", "textures": {"layer0": "sf:items/"+j[4]+"/"+j[1]+".json"}}, indent=4))
-        else:
-            with open(j[1]+'.json', "w+")as f:
-                f.write(json.dumps({"parent": "item/handheld", "textures": {"layer0": "sf:items/"+j[4]+"/"+j[1]+".json"}}, indent=4))
     if not os.path.exists(os.path.join(mcpath, i+".json")):
         with open(os.path.join(mcpath, i+".json"), "w+")as f:
             f.write(json.dumps(text, indent=4))
