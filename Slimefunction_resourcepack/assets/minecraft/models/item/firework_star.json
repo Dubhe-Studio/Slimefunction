@@ -400,6 +400,12 @@
                 "custom_model_data": 7270217
             },
             "model": "sf:items/resources/boosted_uranium"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7270328
+            },
+            "model": "sf:machine/electric_furance"
         }
     ]
 }

@@ -1,0 +1,64 @@
+{
+	"__creator": "Cjsah",
+	"textures": {
+		"face": "sf:blocks/machines/electric_furance_side",
+		"side": "sf:blocks/machines/machine_side",
+		"top-bottom": "sf:blocks/machines/machine_top"
+	},
+	"elements": [
+		{
+			"name": "top",
+			"from": [0, 16, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top-bottom"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"down": {"uv": [0, 0, 16, 16], "texture": "#top-bottom"}
+			}
+		},
+		{
+			"name": "face",
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#face"}
+			}
+		},
+		{
+			"name": "back",
+			"from": [0, 0, 16],
+			"to": [16, 16, 16],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"}
+			}
+		},
+		{
+			"name": "left-side",
+			"from": [0, 0, 0],
+			"to": [0, 16, 16],
+			"faces": {
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"}
+			}
+		},
+		{
+			"name": "right-side",
+			"from": [16, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":[0, -14.666, 0],
+			"scale": [2.286, 2.286, 2.286]
+		}
+	}
+}
