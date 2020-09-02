@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spawn_egg",
+        "layer1": "item/spawn_egg_overlay"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7270328
+            },
+            "model": "sf:machine/electric_furance"
+        }
+    ]
+}
