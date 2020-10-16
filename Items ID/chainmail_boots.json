@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:<>",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270<>,display:{Lore:['{\"italic\":false,\"translate\":\"sf.chainmail_boots.lore\"}'],Name:'{\"italic\":false,\"translate\":\"sf.chainmail_boots.name\"}'},id:'sf:chainmail_boots'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
