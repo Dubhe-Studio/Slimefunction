@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_chestplate",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270036,display:{Name:'{\"italic\":false,\"translate\":\"sf.cactus_chestplate.name\",\"color\":\"dark_green\"}',color:32768},id:'sf:cactus_chestplate',Enchantments:[{id:\"unbreaking\",lvl:6},{id:\"thorns\",lvl:3}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
