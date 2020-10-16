@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270033,display:{Name:'{\"italic\":false,\"translate\":\"sf.reinforced_leggings.name\",\"color\":\"aqua\"}'},id:'sf:reinforced_leggings',Enchantments:[{id:\"minecraft:unbreaking\",lvl:9},{id:\"protection\",lvl:9}]}"
+							"tag": "{CustomModelData:7270033,display:{Name:'{\"italic\":false,\"translate\":\"sf.reinforced_leggings.name\",\"color\":\"aqua\"}'},id:'sf:reinforced_leggings',Enchantments:[{id:\"unbreaking\",lvl:9},{id:\"protection\",lvl:9}]}"
 						}
 					]
 				}

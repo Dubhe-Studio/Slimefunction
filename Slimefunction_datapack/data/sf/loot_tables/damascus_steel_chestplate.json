@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270028,display:{Name:'{\"italic\":false,\"translate\":\"sf.damascus_steel_chestplate.name\",\"color\":\"gray\"}'},id:'sf:damascus_steel_chestplate',Enchantments:[{id:\"minecraft:unbreaking\",lvl:5},{id:\"protection\",lvl:5}]}"
+							"tag": "{CustomModelData:7270028,display:{Name:'{\"italic\":false,\"translate\":\"sf.damascus_steel_chestplate.name\",\"color\":\"gray\"}'},id:'sf:damascus_steel_chestplate',Enchantments:[{id:\"unbreaking\",lvl:5},{id:\"protection\",lvl:5}]}"
 						}
 					]
 				}
