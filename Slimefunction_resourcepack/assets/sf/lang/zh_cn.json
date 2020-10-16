@@ -44,6 +44,11 @@
     "sf.tools.explosive_shovel.lore.1":"让你一下子就能挖掉很多方块",
     "sf.tools.explosive_shovel.lore.2":"兼容时运和精准附魔",
 
+    "sf.damascus_steel_helmet.name":"大马士革钢头盔",
+    "sf.damascus_steel_chestplate.name":"大马士革钢胸甲",
+    "sf.damascus_steel_leggings.name":"大马士革钢护腿",
+    "sf.damascus_steel_boots.name":"大马士革钢靴子",
+
     "sf.tools.soulbound_hoe.name":"灵魂绑定锄",
 
     "sf.tools.soulbound_shovel.name":"灵魂绑定锹",
@@ -63,4 +68,5 @@
 
 
     "sf.magical_items.soulbound_elytra.name":"鞘翅（灵魂绑定）"
+    
 }

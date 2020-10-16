@@ -1,5 +1,10 @@
-# -=by Cjsah=-
-# 混淆 + 乱序 + 转码
+'''
+-=by Cjsah=-
+
+混淆 + 乱序 + 转码
+
+注: 此文件还没写完, 请勿使用, 后果自负
+'''
 import random, string, json
 
 file = "zh_cn.json"
