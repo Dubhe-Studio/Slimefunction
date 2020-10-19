@@ -1,7 +1,8 @@
 {
     "sf.Slimefunction":"§6§l粘液科技",
 
-
+    "sf.12_carat":"12克拉",
+    
     "sf.weapon.grandmas_walking_stick.name":"奶奶的拐杖",
     
     "sf.weapon.grandpas_walking_stick.name":"爷爷的拐杖",
@@ -71,6 +72,11 @@
     "sf.hazmat.lore":"防化套装的一部分",
     "sf.scuba_helmet.lore":"让你能够在水下呼吸",
     "sf.hazmat_suit.lore":"让你能在火焰中行走",
+
+    "sf.gold_helmet.name":"金头盔",
+    "sf.gold_chestplate.name":"金胸甲",
+    "sf.gold_leggings.name":"金护腿",
+    "sf.gold_boots.name":"金靴子",
 
     "sf.tools.soulbound_hoe.name":"灵魂绑定锄",
 

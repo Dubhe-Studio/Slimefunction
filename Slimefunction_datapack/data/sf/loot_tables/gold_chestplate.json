@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:golden_chestplate",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270052,display:{Lore:['{\"italic\":false,\"translate\":\"sf.12_carat\",\"color\":\"blue\"}'],Name:'{\"italic\":false,\"translate\":\"sf.gold_chestplate.name\",\"color\":\"gold\"}'},id:'sf:gold_chestplate',Enchantments:[{id:\"unbreaking\",lvl:10}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

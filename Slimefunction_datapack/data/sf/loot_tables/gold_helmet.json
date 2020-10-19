@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:golden_helmet",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270051,display:{Lore:['{\"italic\":false,\"translate\":\"sf.12_carat\",\"color\":\"blue\"}'],Name:'{\"italic\":false,\"translate\":\"sf.gold_helmet.name\",\"color\":\"gold\"}'},id:'sf:gold_helmet',Enchantments:[{id:\"unbreaking\",lvl:10}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
