@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_leggings",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270049,display:{Lore:['{\"text\":\" \"}','{\"translate\":\"sf.hazmat.lore\",\"color\":\"dark_red\"}'],Name:'{\"italic\":false,\"translate\":\"sf.hazmat_leggings.name\",\"color\":\"red\"}',color:16753920},id:'sf:hazmat_leggings'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

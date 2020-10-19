@@ -59,6 +59,19 @@
     "sf.cactus_leggings.name":"仙人掌护腿",
     "sf.cactus_boots.name":"仙人掌靴子",
 
+    "sf.gilded_iron_helmet.name":"镀金铁头盔",
+    "sf.gilded_iron_chestplate.name":"镀金铁胸甲",
+    "sf.gilded_iron_leggings.name":"镀金铁护腿",
+    "sf.gilded_iron_boots.name":"镀金铁靴子",
+
+    "sf.scuba_helmet.name":"潜水头盔",
+    "sf.hazmat_suit.name":"防化服",
+    "sf.hazmat_leggings.name":"防化护腿",
+    "sf.rubber_boots.name":"橡胶靴",
+    "sf.hazmat.lore":"防化套装的一部分",
+    "sf.scuba_helmet.lore":"让你能够在水下呼吸",
+    "sf.hazmat_suit.lore":"让你能在火焰中行走",
+
     "sf.tools.soulbound_hoe.name":"灵魂绑定锄",
 
     "sf.tools.soulbound_shovel.name":"灵魂绑定锹",

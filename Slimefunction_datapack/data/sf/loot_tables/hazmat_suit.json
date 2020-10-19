@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_chestplate",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270048,display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.hazmat_suit.lore\",\"color\":\"aqua\"}','{\"translate\":\"sf.hazmat.lore\",\"color\":\"dark_red\"}'],Name:'{\"italic\":false,\"translate\":\"sf.hazmat_suit.name\",\"color\":\"red\"}',color:16753920},id:'sf:hazmat_suit'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

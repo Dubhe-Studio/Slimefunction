@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:golden_leggings",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270045,display:{Name:'{\"italic\":false,\"translate\":\"sf.gilded_iron_leggings.name\",\"color\":\"gold\"}'},id:'sf:gilded_iron_leggings',Enchantments:[{id:\"unbreaking\",lvl:6},{id:\"protection\",lvl:8}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

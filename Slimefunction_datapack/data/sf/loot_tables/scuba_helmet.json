@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather_helmet",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270047,display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.scuba_helmet.lore\",\"color\":\"aqua\"}','{\"translate\":\"sf.hazmat.lore\",\"color\":\"dark_red\"}'],Name:'{\"italic\":false,\"translate\":\"sf.scuba_helmet.name\",\"color\":\"red\"}',color:16753920},id:'sf:scuba_helmet'}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

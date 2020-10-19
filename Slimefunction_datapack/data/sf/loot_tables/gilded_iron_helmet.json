@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:golden_helmet",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270043,display:{Name:'{\"italic\":false,\"translate\":\"sf.gilded_iron_helmet.name\",\"color\":\"gold\"}'},id:'sf:gilded_iron_helmet',Enchantments:[{id:\"unbreaking\",lvl:6},{id:\"protection\",lvl:8}]}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
