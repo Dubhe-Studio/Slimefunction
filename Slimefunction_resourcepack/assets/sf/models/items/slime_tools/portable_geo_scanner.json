@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "sf:items/slime_tools/portable_geo_scanner"
+    }
+}
