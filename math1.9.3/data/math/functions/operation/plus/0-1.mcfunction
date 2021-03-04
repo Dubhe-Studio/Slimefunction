@@ -1,1 +1,0 @@
-data modify entity @s Item.tag.bit0 set value [0,0,0,0,0,1]
