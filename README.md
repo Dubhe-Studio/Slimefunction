@@ -15,6 +15,9 @@
 
 </details>
 
+## 兼容性
+[查看CustomModelData以及物品id](./doc/物品对照表.md "附属开发文档")
+
 ## 开发附属
 
 [开发文档](./doc/创建Addons.md "附属开发文档")
