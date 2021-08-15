@@ -1,8 +1,8 @@
 # Slimefunction   `粘液科技原版模组`
 
-![目前版本](https://img.shields.io/github/v/release/Dubhe-Development-Team/Slimefunction?include_prereleases)
-[![Github Issues](https://img.shields.io/github/issues/Dubhe-Development-Team/Slimefunction.svg?style=popout)](https://github.com/Dubhe-Development-Team/Slimefunction/issues)
-![Github stars](https://img.shields.io/github/stars/Dubhe-Development-Team/Slimefunction.svg)
+![目前版本](https://img.shields.io/github/v/release/Dubhe-Studio/Slimefunction?include_prereleases)
+[![Github Issues](https://img.shields.io/github/issues/Dubhe-Studio/Slimefunction.svg?style=popout)](https://github.com/Dubhe-Development-Team/Slimefunction/issues)
+![Github stars](https://img.shields.io/github/stars/Dubhe-Studio/Slimefunction.svg)
 
 * **[物品对照表](./doc/物品对照表.md)**
 
