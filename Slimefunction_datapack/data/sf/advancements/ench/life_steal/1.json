@@ -1,0 +1,27 @@
+{
+	"criteria": {
+		"life_steal_1": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+                "player": [
+					
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment":{
+								"mainhand":{
+									"nbt": "{Enchantments:[{id:\"sf:life_steal\",lvl:1s}]}"
+								}
+							}
+						}
+					}
+				]
+			}
+			
+		}
+	},
+    "rewards": {
+        "function": "sf:ench/life_steal/1"
+    }
+}

@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:7270004,id:'sf:blade_of_vampires',life_steal:1s,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.blade_of_vampires.name\",\"color\":\"red\"}',Lore:['{\"italic\":false,\"color\":\"gray\",\"translate\":\"sf.weapon.blade_of_vampires.lore.1\",\"with\":[{\"translate\":\"enchantment.level.1\"}]}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.weapon.blade_of_vampires.lore.2\"}','{\"translate\":\"sf.weapon.blade_of_vampires.lore.3\"}']},Enchantments:[{id:\"minecraft:fire_aspect\",lvl:2},{id:\"minecraft:unbreaking\",lvl:4},{id:\"minecraft:sharpness\",lvl:2}]}"
+                            "tag": "{CustomModelData:7270004,id:'sf:blade_of_vampires',display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.blade_of_vampires.name\",\"color\":\"red\"}',Lore:['{\"italic\":false,\"color\":\"gray\",\"translate\":\"sf.weapon.blade_of_vampires.lore.1\",\"with\":[{\"translate\":\"enchantment.level.1\"}]}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.weapon.blade_of_vampires.lore.2\"}','{\"translate\":\"sf.weapon.blade_of_vampires.lore.3\"}']},Enchantments:[{id:\"minecraft:fire_aspect\",lvl:2},{id:\"minecraft:unbreaking\",lvl:4},{id:\"minecraft:sharpness\",lvl:2},{id:\"sf:life_steal\",lvl:1s}]}"
 						}
 					]
 				}

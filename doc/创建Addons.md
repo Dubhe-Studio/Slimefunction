@@ -1,8 +1,13 @@
 # 粘液科技数据包自定义附魔接口
 
+|魔咒中文名称|英文id|允许的等级范围|函数接口|基础实现|
+|-|-|-|-|-|
+|生命窃取|sf:ife_steal|1-3|#sf:ench/life_steal|advancements/ench/life_steal
+|灵魂绑定|sf:soul_bound|1|#sf:ench/soul_bound|
+|斩首处决|sf:beheading|1-3|#sf:ench/beheading|
+
 * 灵魂绑定 soul_bound (默认1，最高1)
     * soul_bound:1b
-
 
 * 生命窃取 life_steal (默认1，最高3)
     * life_steal:1s
