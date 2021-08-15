@@ -67,7 +67,7 @@
 					"predicate": {
 						"equipment":{
 							"mainhand":{
-								"nbt": "{beheading:1s}"
+								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:1s}]}"
 					  		}
 						}
 					},
@@ -75,7 +75,8 @@
 				},
         {
           "condition": "minecraft:random_chance_with_looting",
-          "chance": 0.3
+          "chance": 0.3,
+          "looting_multiplier": 0
         }
       ]
     },
@@ -93,7 +94,7 @@
 					"predicate": {
 						"equipment":{
 							"mainhand":{
-								"nbt": "{beheading:2s}"
+								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:2s}]}"
 					  		}
 						}
 					},
@@ -120,7 +121,7 @@
 					"predicate": {
 						"equipment":{
 							"mainhand":{
-								"nbt": "{beheading:3s}"
+								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:3s}]}"
 					  		}
 						}
 					},

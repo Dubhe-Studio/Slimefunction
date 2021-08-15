@@ -2,9 +2,9 @@
 
 |魔咒中文名称|英文id|允许的等级范围|函数接口|基础实现|
 |-|-|-|-|-|
-|生命窃取|sf:ife_steal|1-3|#sf:ench/life_steal|advancements/ench/life_steal
+|生命窃取|sf:ife_steal|1-3|#sf:ench/life_steal|sf/advancements/ench/life_steal|
 |灵魂绑定|sf:soul_bound|1|#sf:ench/soul_bound|
-|斩首处决|sf:beheading|1-3|#sf:ench/beheading|
+|斩首处决|sf:beheading|1-3|#sf:ench/beheading|minecraft/loottable/(僵尸，凋零骷髅，骷髅，苦力怕，玩家的战利品表)|
 
 * 灵魂绑定 soul_bound (默认1，最高1)
     * soul_bound:1b

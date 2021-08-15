@@ -1,6 +1,6 @@
 {
 	"criteria": {
-		"life_steal_2": {
+		"beheading_1": {
 			"trigger": "minecraft:player_hurt_entity",
 			"conditions": {
                 "player": [
@@ -11,7 +11,7 @@
 						"predicate": {
 							"equipment":{
 								"mainhand":{
-									"nbt": "{SF_Enchantments:[{id:\"sf:life_steal\",lvl:2s}]}"
+									"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:2s}]}"
 								}
 							}
 						}
@@ -22,6 +22,6 @@
 		}
 	},
     "rewards": {
-        "function": "sf:ench/life_steal/2"
+        "function": "sf:ench/beheading/2"
     }
 }

@@ -11,7 +11,7 @@
 						"predicate": {
 							"equipment":{
 								"mainhand":{
-									"nbt": "{Enchantments:[{id:\"sf:life_steal\",lvl:1s}]}"
+									"nbt": "{SF_Enchantments:[{id:\"sf:life_steal\",lvl:1s}]}"
 								}
 							}
 						}
