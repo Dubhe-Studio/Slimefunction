@@ -2,7 +2,8 @@
   "type": "minecraft:entity",
   "pools": [
     {
-      "rolls": 1,
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -10,14 +11,16 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 2.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 2.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:looting_enchant",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
                 "max": 1.0
               }
@@ -28,7 +31,8 @@
       ]
     },
     {
-      "rolls": 1,
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -36,14 +40,16 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 2.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 2.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:looting_enchant",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
                 "max": 1.0
               }
@@ -58,79 +64,42 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:skeleton_skull"
+          "name": "minecraft:stone_button",
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "source": "killer",
+              "ops": [
+                {
+                  "op": "replace",
+                  "source": "SelectedItem.tag.SF_Enchantments",
+                  "target": "SF_Enchantments"
+                },
+                {
+                  "op": "replace",
+                  "source": "SelectedItem.tag.Enchantments",
+                  "target": "Enchantments"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{entityType:\"minecraft:skeleton_skull\",needMerge:1b}"
+            }
+          ]
         }
       ],
       "conditions": [
-				{
-					"condition": "minecraft:entity_properties",
-					"predicate": {
-						"equipment":{
-							"mainhand":{
-								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:1s}]}"
-					  		}
-						}
-					},
+        {
+          "condition": "minecraft:entity_properties",
+          "predicate": {
+            "equipment": {
+              "mainhand": {
+                "nbt": "{SF_Enchantments:[{id:\"sf:beheading\"}]}"
+              }
+            }
+          },
           "entity": "killer"
-				},
-        {
-          "condition": "minecraft:random_chance_with_looting",
-          "chance": 0.3,
-          "looting_multiplier": 0
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:skeleton_skull"
-        }
-      ],
-      "conditions": [
-				{
-					"condition": "minecraft:entity_properties",
-					"predicate": {
-						"equipment":{
-							"mainhand":{
-								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:2s}]}"
-					  		}
-						}
-					},
-          "entity": "killer"
-				},
-        {
-          "condition": "minecraft:random_chance_with_looting",
-          "chance": 0.4,
-          "looting_multiplier": 0.1
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:skeleton_skull"
-        }
-      ],
-      "conditions": [
-				{
-					"condition": "minecraft:entity_properties",
-					"predicate": {
-						"equipment":{
-							"mainhand":{
-								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:3s}]}"
-					  		}
-						}
-					},
-          "entity": "killer"
-				},
-        {
-          "condition": "minecraft:random_chance_with_looting",
-          "chance": 0.5,
-          "looting_multiplier": 0.2
         }
       ]
     }

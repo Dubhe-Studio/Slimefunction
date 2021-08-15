@@ -6,11 +6,32 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "minecraft:player_head",
+					"name": "minecraft:stone_button",
 					"functions": [
 						{
-							"function": "minecraft:fill_player_head",
-							"entity": "this"
+							"function": "minecraft:copy_nbt",
+							"source": "killer",
+							"ops": [
+								{
+									"op": "replace",
+									"source": "SelectedItem.tag.SF_Enchantments",
+									"target": "SF_Enchantments"
+								},
+								{
+								  "op": "replace",
+								  "source": "SelectedItem.tag.Enchantments",
+								  "target": "Enchantments"
+								},
+								{
+								  "op": "replace",
+								  "source": "SelectedItem.tag.SkullOwner",
+								  "target": "SkullOwner"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{entityType:\"minecraft:player_head\",needMerge:1b}"
 						}
 					]
 				}
@@ -19,84 +40,13 @@
 				{
 					"condition": "minecraft:entity_properties",
 					"predicate": {
-						"equipment":{
-							"mainhand":{
-								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:1s}]}"
-					  		}
+						"equipment": {
+							"mainhand": {
+								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\"}]}"
+							}
 						}
 					},
 					"entity": "killer"
-				},
-			    {
-				 "condition": "minecraft:random_chance_with_looting",
-				 "chance": 0.6,
-				 "looting_multiplier": 0
-				}
-			]
-		},
-		{
-			"rolls": 1,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:player_head",
-					"functions": [
-						{
-							"function": "minecraft:fill_player_head",
-							"entity": "this"
-						}
-					]
-				}
-			],
-			"conditions": [
-				{
-					"condition": "minecraft:entity_properties",
-					"predicate": {
-						"equipment":{
-							"mainhand":{
-								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:2s}]}"
-					  		}
-						}
-					},
-					"entity": "killer"
-				},
-			    {
-				 "condition": "minecraft:random_chance_with_looting",
-				 "chance": 0.7,
-				 "looting_multiplier": 0.1
-				}
-			]
-		},
-		{
-			"rolls": 1,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:player_head",
-					"functions": [
-						{
-							"function": "minecraft:fill_player_head",
-							"entity": "this"
-						}
-					]
-				}
-			],
-			"conditions": [
-				{
-					"condition": "minecraft:entity_properties",
-					"predicate": {
-						"equipment":{
-							"mainhand":{
-								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\",lvl:3s}]}"
-					  		}
-						}
-					},
-					"entity": "killer"
-				},
-			    {
-				 "condition": "minecraft:random_chance_with_looting",
-				 "chance": 0.8,
-				 "looting_multiplier": 0.2
 				}
 			]
 		}
