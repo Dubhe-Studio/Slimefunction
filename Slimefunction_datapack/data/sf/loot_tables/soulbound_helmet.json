@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270073,id:'sf:soulbound_helmet',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_helmet.name\",\"color\":\"red\"}'}}"
+							"tag": "{CustomModelData:7270073,id:'sf:soulbound_helmet',SF_Enchantments:[{id:\"sf:soul_bound\"}],display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_helmet.name\",\"color\":\"red\"}'}}"
 						}
 					]
 				}

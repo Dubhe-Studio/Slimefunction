@@ -6,6 +6,58 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
+					"name": "minecraft:stone",
+					"functions": [
+						{
+							"function": "minecraft:copy_nbt",
+							"source": "this",
+							"ops": [
+								{
+									"op": "replace",
+									"source": "{}",
+									"target": "playerData"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_attributes",
+							"modifiers": [
+								{
+									"slot": "mainhand",
+									"name": "1",
+									"attribute": "generic.luck",
+									"operation": "addition",
+									"amount": {
+										"type": "minecraft:score",
+										"score": "sfUid",
+										"target": "this"
+								  	}
+								}
+							]
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:alternative",
+							"terms": [
+								{
+									"condition": "minecraft:entity_properties",
+									"predicate": {
+										"nbt": "{Inventory:[{tag:{SF_Enchantments:[{id:\"sf:soul_bound\"}]}}]}"
+									},
+									"entity": "this"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
 					"name": "minecraft:stone_button",
 					"functions": [
 						{
@@ -18,14 +70,14 @@
 									"target": "SF_Enchantments"
 								},
 								{
-								  "op": "replace",
-								  "source": "SelectedItem.tag.Enchantments",
-								  "target": "Enchantments"
+									"op": "replace",
+									"source": "SelectedItem.tag.Enchantments",
+									"target": "Enchantments"
 								},
 								{
-								  "op": "replace",
-								  "source": "SelectedItem.tag.SkullOwner",
-								  "target": "SkullOwner"
+									"op": "replace",
+									"source": "SelectedItem.tag.SkullOwner",
+									"target": "SkullOwner"
 								}
 							]
 						},
@@ -38,15 +90,20 @@
 			],
 			"conditions": [
 				{
-					"condition": "minecraft:entity_properties",
-					"predicate": {
-						"equipment": {
-							"mainhand": {
-								"nbt": "{SF_Enchantments:[{id:\"sf:beheading\"}]}"
-							}
+					"condition": "minecraft:alternative",
+					"terms": [
+						{
+							"condition": "minecraft:entity_properties",
+							"predicate": {
+								"equipment": {
+									"mainhand": {
+										"nbt": "{SF_Enchantments:[{id:\"sf:beheading\"}]}"
+									}
+								}
+							},
+							"entity": "killer"
 						}
-					},
-					"entity": "killer"
+					]
 				}
 			]
 		}

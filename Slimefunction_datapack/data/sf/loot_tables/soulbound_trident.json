@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270007,id:'sf:soulbound_trident',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.soulbound_trident.name\",\"color\":\"red\"}'}}"
+							"tag": "{CustomModelData:7270007,id:'sf:soulbound_trident',SF_Enchantments:[{id:\"sf:soul_bound\"}],display:{Name:'{\"italic\":false,\"translate\":\"sf.weapon.soulbound_trident.name\",\"color\":\"red\"}'}}"
 						}
 					]
 				}

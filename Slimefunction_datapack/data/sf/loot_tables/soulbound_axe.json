@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270024,id:'sf:soulbound_axe',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.tools.soulbound_axe.name\",\"color\":\"red\"}'}}"
+							"tag": "{CustomModelData:7270024,id:'sf:soulbound_axe',display:{Name:'{\"italic\":false,\"translate\":\"sf.tools.soulbound_axe.name\",\"color\":\"red\"}'},SF_Enchantments:[{id:\"sf:soul_bound\"}]}"
 						}
 					]
 				}

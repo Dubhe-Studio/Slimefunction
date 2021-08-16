@@ -13,7 +13,7 @@ scoreboard players set @s[nbt={Item:{tag:{entityType:"minecraft:zombie_head"}}}]
 scoreboard players set @s[nbt={Item:{tag:{entityType:"minecraft:wither_skeleton_skull"}}}] sfValue 15
 #根据斩首等级修正概率
 execute store result score #ench_level_sf sfValue run data get entity @s Item.tag.SF_Enchantments[{id:"sf:beheading"}].lvl
-execute if score #ench_level_sf sfValue matches 3 run scoreboard players add @s[nbt={Item:{tag:{entityType:"minecraft:wither_skeleton"}}}] sfValue 5
+execute if score #ench_level_sf sfValue matches 3 run scoreboard players add @s[nbt={Item:{tag:{entityType:"minecraft:wither_skeleton_skull"}}}] sfValue 5
 
 scoreboard players remove #ench_level_sf sfValue 1
 scoreboard players operation #chance sfValue = #ench_level_sf sfValue

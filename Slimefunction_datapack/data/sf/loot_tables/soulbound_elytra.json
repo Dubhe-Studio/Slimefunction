@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270095,id:'sf:soulbound_elytra',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_items.soulbound_elytra.name\",\"color\":\"red\"}'}}"
+							"tag": "{CustomModelData:7270095,id:'sf:soulbound_elytra',SF_Enchantments:[{id:\"sf:soul_bound\"}],display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_items.soulbound_elytra.name\",\"color\":\"red\"}'}}"
 						}
 					]
 				}

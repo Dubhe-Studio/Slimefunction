@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{CustomModelData:7270074,id:'sf:soulbound_chestplate',soul_bound:1b,display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_chestplate.name\",\"color\":\"red\"}'}}"
+							"tag": "{CustomModelData:7270074,id:'sf:soulbound_chestplate',SF_Enchantments:[{id:\"sf:soul_bound\"}],display:{Name:'{\"italic\":false,\"translate\":\"sf.magical_armors.soulbound_chestplate.name\",\"color\":\"red\"}'}}"
 						}
 					]
 				}

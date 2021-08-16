@@ -79,7 +79,12 @@
                   "op": "replace",
                   "source": "SelectedItem.tag.Enchantments",
                   "target": "Enchantments"
-                }
+                },
+								{
+								  "op": "replace",
+								  "source": "SelectedItem.tag.SkullOwner",
+								  "target": "SkullOwner"
+								}
               ]
             },
             {
@@ -91,15 +96,20 @@
       ],
       "conditions": [
         {
-          "condition": "minecraft:entity_properties",
-          "predicate": {
-            "equipment": {
-              "mainhand": {
-                "nbt": "{SF_Enchantments:[{id:\"sf:beheading\"}]}"
-              }
+          "condition": "minecraft:alternative",
+          "terms": [
+            {
+              "condition": "minecraft:entity_properties",
+              "predicate": {
+                "equipment": {
+                  "mainhand": {
+                    "nbt": "{SF_Enchantments:[{id:\"sf:beheading\"}]}"
+                  }
+                }
+              },
+              "entity": "killer"
             }
-          },
-          "entity": "killer"
+          ]
         }
       ]
     }
