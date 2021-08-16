@@ -1,6 +1,5 @@
 {
     "values":[
-        "sf:ench/soul_bound/load",
         "sf:main/io",
         "sf:main/config"
     ]
