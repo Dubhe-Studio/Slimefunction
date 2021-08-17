@@ -1,0 +1,6 @@
+{
+    "values": [
+        {"id": "global/init","required": false},
+        {"id": "global/load_functions","required": false}
+    ]
+}
