@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": [
+            "The Slimefunction Base",
+            "\n",
+            {
+                "text": "Slimefunction for 1.17",
+                "color": "#00EE76"
+            }
+        ]
+    }
+}
