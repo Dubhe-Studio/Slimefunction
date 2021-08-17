@@ -18,15 +18,15 @@ function test:tick
 ## 检查器规范
 - 添加基础的数据包信息
 ```mcfunction
-data merge storage datapack {(要管理的数据包名或标识符)):{infor:{loadSuccess:'{"text":"(检测成功的信息)"}',module:'{"text":"模块"}',loadFailed:'{"text":"(检测失败的信息))"}'},version:(数据包版本),modules:[]}}
+data merge storage datapack {(要管理的数据包名或标识符):{infor:{loadSuccess:'{"text":"(检测成功的信息)"}',module:'{"text":"模块"}',loadFailed:'{"text":"(检测失败的信息)"}'},version:(数据包版本),modules:[]}}
 ```
 - 其中，modules 为数据包相关的依赖包或其他相关的模块。如没有检测的必要，可以忽略。
 - 添加模块信息
 ```mcfunction
-data modify storage datapack (数据包名).modules[{id:"(数据包命名空间名)):(模块名)"}].name set value '{"text":"(模块显示名))"}'
+data modify storage datapack (数据包名).modules[{id:"(数据包命名空间名):(模块名)"}].name set value '{"text":"(模块显示名)"}'
 ```
 - 添加结果显示
-```mcfunctoin
-execute if score #（模块或数据包名） load.status matches 1 run tellraw @a [{"nbt":"(数据包名).infor.loadSuccess","storage":"minecraft:datapack","interpret":true},{"nbt":"(数据包名).modules[{id:\"(数据包命名空间名):(模块名)\"}].name","storage":"datapack","interpret":true},{"nbt":"(数据包名).infor.module","storage":"minecraft:datapack","interpret":true}]
+```mcfunction
+execute if score #(数据包命名空间名)_(模块名) load.status matches 1 run tellraw @a [{"nbt":"(数据包名).infor.loadSuccess","storage":"minecraft:datapack","interpret":true},{"nbt":"(数据包名).modules[{id:\"(数据包命名空间名):(模块名)\"}].name","storage":"datapack","interpret":true},{"nbt":"(数据包名).infor.module","storage":"minecraft:datapack","interpret":true}]
 execute unless score #(数据包命名空间名)_(模块名) load.status matches 1 run tellraw @a [{"nbt":"(数据包名).infor.loadFailed","storage":"minecraft:datapack","interpret":true,"color":"red"},{"nbt":"(数据包名).modules[{id:\"(数据包命名空间名):(模块名)\"}].name","storage":"datapack","interpret":true,"color":"red"},{"nbt":"(数据包名).infor.module","storage":"minecraft:datapack","interpret":true,"color":"red"}]
 ```
