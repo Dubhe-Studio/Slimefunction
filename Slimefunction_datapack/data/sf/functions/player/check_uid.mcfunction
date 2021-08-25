@@ -1,1 +1,0 @@
-execute as @a[tag=!sf_uid] run function sf:player/set_uid

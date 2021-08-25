@@ -3,7 +3,7 @@ setblock ~ 255 ~ chest
 loot insert ~ 255 ~ loot sf:misc/random100
 execute store result score #rand sfValue run data get block ~ 255 ~ Items[0].tag.AttributeModifiers[0].Amount
 setblock ~ 255 ~ air
-tellraw @a [{"score":{"name":"#rand","objective":"sfValue"}}]
+#tellraw @a [{"score":{"name":"#rand","objective":"sfValue"}}]
 
 #根据砍杀生物设定基础概率
 scoreboard players set @s[nbt={Item:{tag:{entityType:"minecraft:player_head"}}}] sfValue 60

@@ -1,17 +1,23 @@
 # 函数加载器
 ## 设置 laod 函数
-- 编辑 minecraft:global/load_functions 可使得里面的函数等同使用 load 标签进行加载
-- 例子：使得在使用/reload或其他情况下重载函数后1t执行：tset:load函数
+- 在 minecraft:global/load_functions 中依次添加函数，这些函数将在每次重载数据包 1t 后将依次执行
+- 例子：
 ```mcfunction
 function test:load
+function test1:load
+function test2:load
 ```
 ## 设置 tick 函数
-- 此 tick 函数和使用 #tick 标签进行激活的tick函数有所不同：#tick标签在数据包重载时会优先于 load 函数执行，使用 base 数据包添加的 tick 函数会安排在 load 函数后执行。
-- 编辑 minecraft:global/tick_functions 可使得写入的函数等同在数据包重载1t后添加 的高频函数。
-- 例子：使得在使用/reload或其他情况下重载函数后1t执行（load执行完后再执行）test:tick 函数
+- 此 tick 函数和使用 #tick 标签进行激活的 tick 函数有所不同：使用 #tick 标签加载的 tick 函数将会在数据包重载时优先于 load 函数执行，而使用 base 数据包加载器添加的 tick 函数默认会安排在 load 函数后执行。
+- 在 minecraft:global/tick_functions 中依次添加函数，这些函数将在每次重载数据包 1t 后依次高频执行。
+- 例子：使得在使用/reload或其他情况下重载函数后1t执行（默认为所有load函数执行完后再执行）test:tick 函数
 ```mcfunction
 function test:tick
+function test1:tick
+function test2:tick
 ```
+## 改变 tick 函数相对于 load 函数的执行顺序
+- 本加载器实现 tick 函数的原理为：在 tick_after_load_functions 函数中添加 schedule function global/tick_after_load_functions 1t 使得 tick_after_load_functions 函数在被调用一次后每间隔 1t 会自行激活一次。调用 tick_after_load_functions 的函数命令写在 load_functions 函数末尾（默认）
 # 数据包检查器
 ## 文件名规范
 - slimefunction 数据包专属的包检查器为 sf_pack_checker.mcfunction ，如要添加其他的包加载器，请在global同目录下创建文件 (数据包命名空间名)_pack_checker.mcfunction

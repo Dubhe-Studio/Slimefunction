@@ -56,7 +56,7 @@ execute if block ~-1 ~-1 ~1 #sf:container run summon area_effect_cloud ~-1 ~-1 ~
 execute if block ~-1 ~-1 ~ #sf:container run summon area_effect_cloud ~-1 ~-1 ~ {Tags:["sf_ep_con"]}
 execute if block ~-1 ~-1 ~-1 #sf:container run summon area_effect_cloud ~-1 ~-1 ~-1 {Tags:["sf_ep_con"]}
 
-execute if entity @e[tag=sf_ep_con] as @e[tag=sf_ep_con] at @s run function sf:action/items/tools/pickaxe/container
+execute as @e[tag=sf_ep_con] at @s run function sf:player/use/tools/explosive_pickaxe/container
 
 # 破坏
 execute unless block ~1 ~1 ~1 #sf:exp_unbreaks run setblock ~1 ~1 ~1 air

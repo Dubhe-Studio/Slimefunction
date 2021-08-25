@@ -1,6 +1,5 @@
 {
     "values": [
-        {"id": "global/init","required": false},
-        {"id": "global/load_functions","required": false}
+        {"id": "sf:load","required": false}
     ]
 }

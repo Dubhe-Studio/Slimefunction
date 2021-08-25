@@ -1,4 +1,4 @@
-scoreboard players set #sf_energy_api load.status 1
+data modify storage sf:energy_api load set value true
 #give
 give @p armor_stand{display:{Name:"1"},EntityTag:{Tags:["es","sfmachine"]}}
 give @p armor_stand{display:{Name:"2"},EntityTag:{Tags:["em","sfmachine"]}}

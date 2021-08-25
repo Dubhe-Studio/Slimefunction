@@ -1,9 +1,0 @@
-execute if entity @s[nbt={Item:{id:"minecraft:coal_ore"}}] run data modify entity @s Item.id set value "minecraft:coal"
-execute if entity @s[nbt={Item:{id:"minecraft:iron_ore"}}] run data modify entity @s Item.id set value "minecraft:iron_ingot"
-execute if entity @s[nbt={Item:{id:"minecraft:gold_ore"}}] run data modify entity @s Item.id set value "minecraft:gold_ingot"
-execute if entity @s[nbt={Item:{id:"minecraft:emerald_ore"}}] run data modify entity @s Item.id set value "minecraft:emerald"
-execute if entity @s[nbt={Item:{id:"minecraft:diamond_ore"}}] run data modify entity @s Item.id set value "minecraft:diamond"
-execute if entity @s[nbt={Item:{id:"minecraft:nether_quartz_ore"}}] run data modify entity @s Item.id set value "minecraft:quartz"
-execute if entity @s[nbt={Item:{id:"minecraft:redstone_ore"}}] run function sf:action/items/tools/pickaxe/ore/redstone
-execute if entity @s[nbt={Item:{id:"minecraft:nether_gold_ore"}}] run function sf:action/items/tools/pickaxe/ore/nether_gold
-execute if entity @s[nbt={Item:{id:"minecraft:lapis_ore"}}] run function sf:action/items/tools/pickaxe/ore/lapis
