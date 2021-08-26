@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:cookie",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270218,id:'sf:fortune_cookie',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tools.fortune_cookie.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.tools.fortune_cookie.lore.2\",\"color\":\"blue\"}'],Name:'{\"italic\":false,\"translate\":\"sf.tools.fortune_cookie.name\",\"color\":\"yellow\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
