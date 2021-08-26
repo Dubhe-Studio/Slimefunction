@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "cooked_chicken",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{sfJerky:1b,CustomModelData:7270222,id:'sf:chicken_jerky',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.chicken_jerky.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.chicken_jerky.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.chicken_jerky.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

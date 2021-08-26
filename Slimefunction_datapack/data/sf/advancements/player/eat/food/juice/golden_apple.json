@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "eat_fortune_cookie": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "nbt": "{id:'sf:golden_apple_juice'}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "sf:player/eat/food/juice/golden_apple"
+    }
+}

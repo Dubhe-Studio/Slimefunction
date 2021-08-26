@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "eat_fortune_cookie": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "nbt": "{sfJerky:1b}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "sf:player/eat/food/jerky/common/set_jerky_level"
+    }
+}

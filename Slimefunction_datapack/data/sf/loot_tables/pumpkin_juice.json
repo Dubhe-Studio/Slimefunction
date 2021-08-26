@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:honey_bottle",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{sfJuice:1b,CustomModelData:7270232,id:'sf:pumpkin_juice',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.pumpkin_juice.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.pumpkin_juice.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.pumpkin_juice.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

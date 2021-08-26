@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:cookie",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270219,id:'sf:diet_cookie',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.diet_cookie.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.diet_cookie.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.diet_cookie.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

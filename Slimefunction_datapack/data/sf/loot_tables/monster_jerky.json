@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:rotten_flesh",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{sfJerky:1b,CustomModelData:7270228,id:'sf:monster_jerky',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.monster_jerky.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.monster_jerky.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.monster_jerky.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

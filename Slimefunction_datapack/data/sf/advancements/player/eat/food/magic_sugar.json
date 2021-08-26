@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "eat_fortune_cookie": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": ["minecraft:melon_slice"],
+                    "nbt": "{id:'sf:magic_sugar'}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "sf:player/eat/food/magic_sugar"
+    }
+}

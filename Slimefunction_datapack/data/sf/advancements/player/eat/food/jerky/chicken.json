@@ -4,13 +4,13 @@
             "trigger": "minecraft:consume_item",
             "conditions": {
                 "item": {
-                    "items": ["minecraft:cookie"],
-                    "nbt": "{id:'sf:fortune_cookie'}"
+                    "items": ["minecraft:cooked_beef"],
+                    "nbt": "{sfJerky:1b}"
                 }
             }
         }
     },
     "rewards": {
-        "function": "sf:player/eat/food/fortune_cookie"
+        "function": "sf:xxx"
     }
 }

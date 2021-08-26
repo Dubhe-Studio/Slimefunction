@@ -10,3 +10,4 @@ function sf:main/init
 function sf:check_pack
 #tick接口
 function sf:tick
+function sf:tick20

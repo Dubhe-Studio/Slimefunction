@@ -7,3 +7,6 @@ scoreboard objectives add sf_dmd_shovel minecraft.used:minecraft.diamond_shovel
 scoreboard objectives add sfUid dummy
 #常数
 scoreboard players set #10 sfValue 10
+#食物
+scoreboard objectives add sfJerkyLevel dummy
+

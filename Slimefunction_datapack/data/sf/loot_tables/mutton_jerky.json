@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "cooked_mutton",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{sfJerky:1b,CustomModelData:7270223,id:'sf:mutton_jerky',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.mutton_jerky.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.mutton_jerky.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.mutton_jerky.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

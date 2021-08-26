@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:melon_slice",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270227,id:'sf:magic_sugar',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.magic_sugar.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.magic_sugar.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.magic_sugar.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

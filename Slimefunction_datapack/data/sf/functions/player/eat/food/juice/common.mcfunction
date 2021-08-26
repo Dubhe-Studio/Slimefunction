@@ -1,0 +1,1 @@
+advancement revoke @s only sf:player/eat/food/juice/common

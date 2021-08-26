@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "cooked_cod",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{sfJerky:1b,CustomModelData:7270225,id:'sf:cod_jerky',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.cod_jerky.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.cod_jerky.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.cod_jerky.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

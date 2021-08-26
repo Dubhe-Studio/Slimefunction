@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:honey_bottle",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:7270234,id:'sf:golden_apple_juice',display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.golden_apple_juice.lore.1\"}','{\"text\":\" \"}','{\"italic\":false,\"translate\":\"sf.food.golden_apple_juice.lore.2\"}'],Name:'{\"italic\":false,\"translate\":\"sf.food.golden_apple_juice.name\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
